@@ -1,0 +1,738 @@
+city,property_name,location,builder,price_lakhs,BHK,property_type
+Hyderabad,OMER RESIDENCY,"3 BHK Flat in Salarjung Colony, Old Mumbai Highway",Bricks Ramabhupal Projects LLP,112.99999999999999,2.0,Apartment
+Hyderabad,"Narayankhed, Sangareddy","Residential land / Plot in Narayankhed, Sangareddy",Sujay Infra,178.0,3.0,Apartment
+Hyderabad,Safah Eminence,"3 BHK Flat in Banjara hills, Ring Road",Sri Sreenivasa Infra,250.0,4.0,Apartment
+Hyderabad,"SMAK harmony,Brindavan colony","3 BHK Flat in Brindavan Colony, Toli Chowki, Old Mumbai Highway",Jain Construction,803.9999999999999,4.0,Villa
+Hyderabad,Bhongir,"Residential land / Plot in Warangal highway, Hyderabad",ASBL,302.0,3.0,Apartment
+Hyderabad,SHADNAGAR,"Residential land / Plot in Bangalore Highway, Hyderabad",BRC Infra,401.0,4.0,Apartment
+Hyderabad,Krishna Brundhavan Colony,"4 Bedroom House in Aminpur, Hyderabad",Vasavi Group,108.0,2.0,Apartment
+Hyderabad,"Ibrahimpatnam, Hyderabad","Residential land / Plot in Ibrahimpatnam, Hyderabad",SRR Fortune Developers,219.0,3.0,Apartment
+Hyderabad,Raasi Aspire,"3 BHK Flat in Madhapur, Hyderabad",Vertex Homes Pvt Ltd,373.0,4.0,Apartment
+Hyderabad,srinavasam green vally,"3 BHK Flat in Manchirevulu, Narsingi",Idream Sai RK Infra,87.98,,Land
+Hyderabad,Bhuvanagiri,"Residential land / Plot in Anantharam, Hyderabad",Prathik Developers,102.0,2.0,Apartment
+Hyderabad,"Annojiguda,Ghatkesar, Hyderabad","2 Bedroom House in Annojiguda,Ghatkesar, Hyderabad",Brigade Group,412.0,3.0,Apartment
+Hyderabad,Subishis Bliss Luxury Homes,"4 Bedroom House in Mokila, Hyderabad",Anvita,612.0,4.0,Apartment
+Hyderabad,"Vijaypuri colony, Kothapet","3 Bedroom House in Saroor nagar, Hyderabad",Peers Constructions,183.0,3.0,Apartment
+Hyderabad,Subishi Forest Edge Luxury Homes,"4 Bedroom House in Medchal, Hyderabad",Sumadhura Group,106.0,2.0,Apartment
+Hyderabad,"khairatabad, Hyderabad","2 Bedroom House in khairatabad, Hyderabad",Bhashyam Developers,137.0,3.0,Apartment
+Hyderabad,Hmt Sathavahana Nagar,"Residential land / Plot in Sathavahana Nagar, Kukatpally",Swagath Housing Corporation,153.0,3.0,Apartment
+Hyderabad,APR Praveens Higheria,"2 BHK Flat in Patancheru, Hyderabad",Ramky Estates and Farms Hyderabad,182.0,4.0,Apartment
+Hyderabad,Aspirealty Avatar,"Residential land / Plot in Srisailam Highway, Hyderabad",Modi Builders,101.0,2.0,Apartment
+Hyderabad,"Mallapur, Balapur, Hyderabad","2 Bedroom House in Mallapur, Balapur, Hyderabad",Bhashyam Developers,118.0,3.0,Apartment
+Hyderabad,Sree Nagha Bharradwaj Constructions,"2 BHK Flat in Sri srinivasapuram Colony, Almasguda road, Hyderabad.",Sanjeevani Projects,65.99,,Land
+Hyderabad,Siri Balaji Towers,"3 BHK Flat in Nizampet, Hyderabad",Iconic Infra Hyderabad,60.89,2.0,Apartment
+Hyderabad,Sri Sreenivasa Fortune Enclave,"4 BHK Flat in Banjara hills, Ring Road",Sukhii Group,125.0,2.0,Apartment
+Hyderabad,Padma colony,"7 Bedroom House in Nallakunta, Hyderabad",Brigade Group,181.0,3.0,Apartment
+Hyderabad,Pragati Green Meadows,"Residential land / Plot in Shankarpally, Hyderabad",Rajapushpa Properties,130.0,2.0,Apartment
+Hyderabad,GNRs Vasavi Nirvana,"3 BHK Flat in Attapur, Hyderabad",APR Group,170.0,3.0,Apartment
+Hyderabad,"Begumpet, Hyderabad","30 Bedroom House in Begumpet, Hyderabad",Riddhi Builders and Developers,152.0,3.0,Villa
+Hyderabad,Vaishnavi Houdini,"3 BHK Flat in Bandlaguda Jagir, Hyderabad",YBR Infra Developers,185.0,4.0,Villa
+Hyderabad,"Aditya Empress Hights, shaikpet","2 BHK Flat in Shaikpet, Hyderabad",Sunshine Developers,121.0,2.0,Apartment
+Hyderabad,Maytas Hill County I,"3 BHK Flat in Bachupally, Hyderabad",Vilok Infra,264.0,3.0,Apartment
+Hyderabad,Anmol Alpine Vistas,"3 Bedroom House in Patancheru, Hyderabad",Unknown,404.0,4.0,Apartment
+Hyderabad,Alekhya NSR County,"Residential land / Plot in Sadashivpet, Hyderabad",Unknown,170.0,3.0,Villa
+Hyderabad,"Patancheru, Hyderabad","Residential land / Plot in Patancheru, Hyderabad",Unknown,263.0,4.0,Villa
+Hyderabad,Sanvi Vora Towers.,"4 BHK Flat in Madhura Nagar, Hyderabad",Unknown,74.41,2.0,Apartment
+Hyderabad,Mahanagar Green Terraces,"3 BHK Flat in Nagole, Hyderabad",Unknown,93.85,3.0,Apartment
+Hyderabad,Anantha vayogue venture shamshabad,"Residential land / Plot in Balapur, Hyderabad",Unknown,102.0,3.0,Villa
+Hyderabad,Urbanrise on Cloud 33,"2 BHK Flat in Bachupally, Hyderabad",Unknown,91.69,,Land
+Hyderabad,"Begumpet, Hyderabad","6 Bedroom House in Begumpet, Hyderabad",Unknown,135.0,2.0,Apartment
+Hyderabad,Kongarkalan,"Residential land / Plot in Adibatla, Hyderabad",SMR Holdings,182.0,2.0,Apartment
+Hyderabad,"Shamshabad, Hyderabad","Residential land / Plot in Shamshabad, Hyderabad",Radhey Constructions,298.0,3.0,Apartment
+Hyderabad,Saket Bhu Sattva,"4 Bedroom House in Kompally, Hyderabad",Advaita Properties,355.0,4.0,Apartment
+Hyderabad,"Bibinagar, Hyderabad","Residential land / Plot in Bibinagar, Hyderabad",DE Blueoak,90.44,2.0,Apartment
+Hyderabad,Vasudeva Lalitha Bloomfield,"4 Bedroom House in Khajaguda, Manikonda",B S Infra,,3.0,Villa
+Hyderabad,Indis VB City,"2 BHK Flat in Kompally, Hyderabad",Rajapushpa Properties,575.0,3.0,Apartment
+Hyderabad,Siddharth Nirvana,"3 BHK Flat in Bachupally, Hyderabad",Pranava Group,886.9999999999999,4.0,Apartment
+Hyderabad,"Aziz Nagar, Hyderabad","4 Bedroom House in Aziz Nagar, Hyderabad",Modi Builders,1275.0,5.0,Apartment
+Hyderabad,"Shamshabad, Hyderabad","Residential land / Plot in Shamshabad, Hyderabad",Unknown,191.0,3.0,Apartment
+Hyderabad,Vaidehi Nivas Golden Palms,"3 BHK Flat in Vidya nagar, Adikmet, Hyderabad",Unknown,258.0,4.0,Apartment
+Hyderabad,Aspirealty Avatar,"Residential land / Plot in Srisailam Highway, Hyderabad",Unknown,60.7,2.0,Apartment
+Hyderabad,Ramky One Symphony,"3 BHK Flat in Patancheru, Hyderabad",Unknown,86.1,3.0,Apartment
+Hyderabad,"Moinabad, Hyderabad","4 Bedroom Farm house in Moinabad, Hyderabad",Unknown,110.00000000000001,2.0,Apartment
+Hyderabad,Jayabheri Orange County,"4 BHK Flat in Nanakramguda, Hyderabad",Unknown,229.99999999999997,3.0,Apartment
+Hyderabad,Shree Laxmi Nagar Colony,"3 Bedroom House in Sayeedabad Colony, Saidabad, Hyderabad",Unknown,88.08,2.0,Apartment
+Hyderabad,Aditya Empress Towers,"3 BHK Flat in Shaikpet, Hyderabad",Unknown,120.0,3.0,Apartment
+Hyderabad,"Sri Colony, sainikpuri","3 BHK Flat in Defence Colony, Langer House, Hyderabad",Gamut India Projects,66.12,2.0,Apartment
+Hyderabad,close to Yadadri gutta temple,"Residential land / Plot in Warangal highway, Hyderabad",Saanvi Constructions,86.07,3.0,Apartment
+Hyderabad,Aparna kanopy yellow bells,"3 BHK Flat in Gundlapochampalli, Hyderabad",Maphar Constructions,265.0,4.0,Villa
+Hyderabad,Greater Infra Global City 2,"Residential land / Plot in Nandigama, Hyderabad",Lalita Constructions,172.0,3.0,Apartment
+Hyderabad,Narne East City,"Residential land / Plot in Bibinagar, Hyderabad",Vision Infra Hyderabad,241.0,4.0,Apartment
+Hyderabad,"Yeliminedu, Hyderabad","Residential land / Plot in Yeliminedu, Hyderabad",Advaita Properties,60.0,2.0,Apartment
+Hyderabad,Aziz Residency,"3 BHK Flat in Sayeedabad Colony, Saidabad, Hyderabad",Elite Constructions Telangana,107.0,2.0,Apartment
+Hyderabad,"Shad nagar, Hyderabad","Residential land / Plot in Shad nagar, Hyderabad",Raja Developers And Builders,208.0,3.0,Apartment
+Hyderabad,H.No. 114 HIG - II,"3 Bedroom House in Raviryal, Hyderabad",DSR Infra Projects Bangalore,124.0,3.0,Apartment
+Hyderabad,Aparna Cyber Life,"3 BHK Flat in Nallagandla, Hyderabad",Unknown,,1.0,Apartment
+Hyderabad,Kakateeya Hills,"4 BHK Independent Builder Floor in Madhapur, Hyderabad",Unknown,172.0,3.0,Apartment
+Hyderabad,"Chevella, Hyderabad","Residential land / Plot in Chevella, Hyderabad",Unknown,79.91,2.0,Apartment
+Hyderabad,CK Golden Doors,"Residential land / Plot in Patancheru, Hyderabad",Unknown,,3.0,Apartment
+Hyderabad,NS Arcade Apartment Alkapuri colony Kothapet,"2 BHK Flat in Alkapuri Colony, Kothapet, Hyderabad",Unknown,70.67,2.0,Apartment
+Hyderabad,Siddharth Nirvana,"3 BHK Flat in Bachupally, Hyderabad",Unknown,105.0,3.0,Apartment
+Hyderabad,"Gandipet, Hyderabad","Residential land / Plot in Gandipet, Hyderabad",Peram Group,66.59,,Land
+Hyderabad,Vasavi Atlantis,"3 BHK Flat in Narsingi, Hyderabad",Anmol Builders Hyderabad,229.0,3.0,Villa
+Hyderabad,Aparna Altius,"3 BHK Flat in Shamshabad, Hyderabad",Trishala Constrcutions,87.5,2.0,Apartment
+Hyderabad,"prashant nagar, lakshmi nagar colony","3 BHK Flat in Saidabad, Hyderabad",Rajapushpa Properties,126.0,3.0,Apartment
+Hyderabad,Govindh Ramakrishna Pride,"9 BHK Independent Builder Floor in Moti Nagar, Hyderabad",Sumadhura Group,137.0,2.0,Apartment
+Hyderabad,Red Clay Court 2,"Residential land / Plot in Tukkuguda, Hyderabad",Avantika Constructions,266.0,3.0,Apartment
+Hyderabad,"Gundlapochampalli, Hyderabad","Residential land / Plot in Gundlapochampalli, Hyderabad",Unknown,606.0,3.0,Apartment
+Hyderabad,Hirise PVR Meadows,"3 Bedroom House in Mallampet, Bachupally",Unknown,826.0,4.0,Apartment
+Hyderabad,"Ameya, Aspire spaces","2 BHK Flat in Ameenpur Village, Aminpur",Unknown,81.9,2.0,Apartment
+Hyderabad,"Shamshabad, Hyderabad","Residential land / Plot in Shamshabad, Hyderabad",Unknown,112.00000000000001,3.0,Apartment
+Hyderabad,Aparna Zenon,"3 BHK Flat in Puppalaguda, Hyderabad",AR Homes Hyderabad,74.09,2.0,Apartment
+Hyderabad,Silpa CSK Green Villas,"Residential land / Plot in Shad nagar, Hyderabad",Reliance Builders,123.0,3.0,Apartment
+Hyderabad,Risinia Skyon,"2 BHK Flat in Bachupally, Hyderabad",Sristhira Infra,204.99999999999997,4.0,Apartment
+Hyderabad,Pragathi Nagar Jntu,"4 BHK Flat in Kukatpally, Hyderabad",Highrise Constructions,198.0,3.0,Apartment
+Hyderabad,Dharani's TULIP HEIGHTS PHASE III,"Residential land / Plot in Indrakaran, Kandi, Hyderabad",Sameeksha Builders,309.0,4.0,Apartment
+Hyderabad,SL Belmont Homes,"Residential land / Plot in Kompally, Hyderabad",S R Group,76.8,3.0,Apartment
+Hyderabad,360 life Appartment,"4 BHK Flat in Hi Tech City, Hyderabad",Unknown,142.0,3.0,Apartment
+Hyderabad,Gmrc fortune prime,"3 BHK Flat in Prashanthi Hills, Almas guda, Nandi Hills, Hyderabad",Unknown,,4.0,Apartment
+Hyderabad,Radha Maple Town,"4 Bedroom House in Velly View Enclave, Bandlaguda Jagir, Hyderabad",Unknown,65.39,2.0,Apartment
+Hyderabad,Swamy Towers,"3 BHK Flat in Hyderguda, Hyderabad",Unknown,88.0,3.0,Apartment
+Hyderabad,S. K. Homes,"2 BHK Independent Builder Floor in Muthangi, Patancheru",Unknown,76.0,,Land
+Hyderabad,Vamsiram Jyothi BRKR,"3 BHK Flat in Kachiguda, Hyderabad",Unknown,212.0,3.0,Apartment
+Hyderabad,NV DSG Dhivya Shree Shakthi,"2 BHK Flat in Miyapur, Hyderabad",Unknown,271.0,4.0,Apartment
+Hyderabad,sri nilayam bloom,"4 Bedroom House in TurkaYamjal, Hyderabad",Emmareddy Projects,107.0,2.0,Apartment
+Hyderabad,Home Mayuri Hills,"3 BHK Flat in Mayuri Nagar, Miyapur, Hyderabad",Prathista Homes,110.00000000000001,3.0,Apartment
+Hyderabad,Ashwini Apartments,"4 BHK Flat in Ameerpet, Hyderabad",Sri Sai Suvidha Developers,87.0,2.0,Apartment
+Hyderabad,serenity brindavan,"3 BHK Flat in Padmasri Hills, Bandlaguda Jagir, Hyderabad",Vasu Sri Infra Projects,124.0,3.0,Apartment
+Hyderabad,Sri Ram Garden by Jains,"3 BHK Flat in Kompally, Hyderabad",Lansum Properties LLP,56.8,2.0,Apartment
+Hyderabad,Saket Pranamam,"2 BHK Flat in Kompally, Hyderabad",Abode Constructions,72.43,3.0,Apartment
+Hyderabad,Primark Inspira,"3 BHK Flat in Miyapur, Hyderabad",Unknown,219.0,3.0,Apartment
+Hyderabad,Lansum Etania,"3 BHK Flat in Nanakramguda, Hyderabad",Unknown,91.8,2.0,Apartment
+Hyderabad,"Puppalaguda, Hyderabad","10 Bedroom House in Puppalaguda, Hyderabad",Unknown,124.0,3.0,Apartment
+Hyderabad,Prestige Dream Valley,"3 Bedroom House in Shivarampally Jagir, Hyderabad",SRK Developers Hyderabad,55.83,2.0,Apartment
+Hyderabad,Kohinoor by Auro Realty,"4 BHK Flat in Hi Tech City, Hyderabad",CSR Infra,77.0,3.0,Apartment
+Hyderabad,"Maheshwaram, Hyderabad","Residential land / Plot in Maheshwaram, Hyderabad",Vaishnaoi Developers,549.0,,Land
+Hyderabad,Laxmi Vani Delight,"3 BHK Flat in Attapur, Hyderabad",Lakshmi Builders Hyderabad,634.0,4.0,Villa
+Hyderabad,Sree Matha Apartment,"3 BHK Flat in Don Bosco Nagar, Bandlaguda Jagir, Hyderabad",Vijayakalpa Developers,944.0,5.0,Villa
+Hyderabad,mathrubhuumi VNR Towers,"2 BHK Flat in Mahadevpur Colony, Hyderabad",Unknown,77.0,3.0,Apartment
+Hyderabad,"Hasthinapuram Central, Hastinapuram, Hyderabad","Residential land / Plot in Hasthinapuram Central, Hastinapuram, Hyderabad",Unknown,320.0,4.0,Villa
+Hyderabad,Shubha Avani Golden Arena,"Residential land / Plot in Kadthal, Hyderabad",Unknown,445.0,5.0,Villa
+Hyderabad,GVK Sky City,"4 BHK Flat in Somajiguda, Hyderabad",Candeur Constructions,157.0,3.0,Apartment
+Hyderabad,The Huddle,"3 Bedroom House in Tukkuguda, Hyderabad",Sri Sai Constructions Hyderabad,67.1,2.0,Apartment
+Hyderabad,"Patelguda, Hyderabad","Residential land / Plot in Patelguda, Hyderabad",Unknown,88.0,3.0,Apartment
+Hyderabad,"Madhava Hills Estates, Serilingampally, Hyderabad","Residential land / Plot in Madhava Hills Estates, Serilingampally, Hyderabad",Akshita Infra,119.0,,Land
+Hyderabad,Green Blossoms,"3 BHK Flat in Kokapet, Hyderabad",MRKR Constructions and Industries,97.44,2.0,Apartment
+Hyderabad,Dolphin Estates,"3 BHK Flat in Miyapur, Hyderabad",Unknown,75.57,2.0,Apartment
+Hyderabad,malreddy rangareddy nagar,"Residential land / Plot in Karmanghat, Hyderabad",Unknown,112.00000000000001,3.0,Apartment
+Hyderabad,D block 806,"3 BHK Flat in Hafeezpet, Hyderabad",Unknown,,4.0,Apartment
+Hyderabad,"Rudraram, Hyderabad","Residential land / Plot in Rudraram, Hyderabad",Lansum Enpoint Developers,290.0,3.0,Apartment
+Hyderabad,Akash Lake View alway cross roads Miyapur,"3 BHK Flat in Miyapur, Hyderabad",Rajapushpa Properties,415.00000000000006,4.0,Apartment
+Hyderabad,Aparna Luxor Park,"4 BHK Flat in Kondapur, Hyderabad",Unknown,757.0,5.0,Villa
+Hyderabad,Vaishnavi Houdini,"3 BHK Flat in Bandlaguda Jagir, Hyderabad",Saanvi Infra Properties,122.0,3.0,Apartment
+Hyderabad,SMR Vinay Harmony Country,"2 BHK Flat in Bandlaguda Jagir, Hyderabad",Sumadhura Group,271.0,3.0,Apartment
+Hyderabad,Mumbai highway,"Residential land / Plot in Sadashivpet, Hyderabad",Rajapushpa Properties,1122.0,4.0,Villa
+Hyderabad,Sheelam Nivas,"2 BHK Flat in khairatabad, Hyderabad",Sunshine Developers,697.0,4.0,Villa
+Hyderabad,Fortune Paradise,"Residential land / Plot in Tukkuguda, Hyderabad",Suchirindia,87.97,2.0,Apartment
+Hyderabad,"Hayathabad, Hyderabad","Residential land / Plot in Hayathabad, Hyderabad",Unknown,125.0,3.0,Apartment
+Hyderabad,Pragati Green Meadows,"Residential land / Plot in Shankarpally, Hyderabad",Unknown,80.0,,Land
+Hyderabad,"United Enclave , Ameerpet","3 BHK Flat in Leelanagar, Ameerpet, Balkampet, Hyderabad",Urbanrise,83.24,2.0,Apartment
+Hyderabad,Hallmark Hampton,"3 Bedroom House in Srisailam Highway, Hyderabad",Unknown,121.0,3.0,Apartment
+Hyderabad,Hill City,"Residential land / Plot in Nawabpet, Vikarabad Road, Hyderabad",Ira Reality,152.0,4.0,Apartment
+Hyderabad,"Srisailam Highway, Hyderabad","Residential land / Plot in Srisailam Highway, Hyderabad",INDIS,47.95,,Land
+Hyderabad,"the deccan pearl city , kadthal","Residential land / Plot in Kadthal, Hyderabad",Madhu Infrastructure,132.0,3.0,Apartment
+Hyderabad,"Shad nagar, Hyderabad","Residential land / Plot in Shad nagar, Hyderabad",Unknown,125.0,2.0,Apartment
+Hyderabad,Modi Sunshine Park,"3 Bedroom House in Ghatkesar, Hyderabad",Unknown,,1.0,Apartment
+Hyderabad,Bhargavi Nilayam,"8 Bedroom House in Annapurna Colony,Boduppal, Warangal highway, Hyderabad",Unknown,103.0,2.0,Apartment
+Hyderabad,"Yeliminedu, Hyderabad","Residential land / Plot in Yeliminedu, Hyderabad",Unknown,149.0,3.0,Apartment
+Hyderabad,"Shad nagar, Hyderabad","Residential land / Plot in Shad nagar, Hyderabad",MKT Praneeth Homes,52.61,2.0,Apartment
+Hyderabad,Indis Viva City,"3 BHK Flat in Kondapur, Hyderabad",Parijatha Homes,56.98,3.0,Apartment
+Hyderabad,Aparna Sarovar Zicon,"3 BHK Flat in Nallagandla, Hyderabad",Unknown,45.22,2.0,Apartment
+Hyderabad,"Injapur, Hyderabad","Residential land / Plot in Injapur, Hyderabad",Unknown,64.6,3.0,Apartment
+Hyderabad,shritha ortus,"3 BHK Independent Builder Floor in Hi Tech City, Hyderabad",Vasavi Group,,2.0,Apartment
+Hyderabad,Shritha ortus,"3 BHK Independent Builder Floor in Hi Tech City, Hyderabad",Anuhar Homes,,3.0,Apartment
+Hyderabad,Shritha ortus,"3 BHK Independent Builder Floor in Hi Tech City, Hyderabad",Lalitha Construction,,4.0,Apartment
+Hyderabad,Vibha,"3 BHK Flat in Tellapur, Hyderabad",Unknown,108.0,2.0,Apartment
+Hyderabad,"Ameenpur Village, Aminpur, Hyderabad","Residential land / Plot in Ameenpur Village, Aminpur",Unknown,151.0,3.0,Apartment
+Hyderabad,"Balaji Nagar,Badangpet, Hyderabad","Residential land / Plot in Balaji Nagar,Badangpet, Hyderabad",Unknown,67.8,2.0,Apartment
+Hyderabad,New Plots,"Residential land / Plot in Maheshwaram, Hyderabad",Unknown,86.73,3.0,Apartment
+Hyderabad,"Mucherla, Hyderabad","Residential land / Plot in Mucherla, Hyderabad",Greater Infra,76.5,2.0,Apartment
+Hyderabad,Rajapushpa Serene Dale,"4 Bedroom House in Tellapur, Hyderabad",Unknown,120.0,3.0,Apartment
+Hyderabad,"Peddapur, Hyderabad","Residential land / Plot in Peddapur, Hyderabad",J Group,76.2,,Land
+Hyderabad,Vasavi White Lotus,"Residential land / Plot in Shad nagar, Hyderabad",Harika Constructions,72.33,2.0,Apartment
+Hyderabad,Tulip Farms,"Residential land / Plot in Kandukur, Hyderabad",Unknown,96.8,3.0,Apartment
+Hyderabad,"Chevella, Hyderabad","Residential land / Plot in Chevella, Hyderabad",Bricks Infratech,102.0,2.0,Apartment
+Hyderabad,"Ghatkesar, Hyderabad","Residential land / Plot in Ghatkesar, Hyderabad",Unknown,160.0,3.0,Apartment
+Hyderabad,Greenrich Highlands,"Residential land / Plot in Tukkuguda, Hyderabad",Unknown,200.99999999999997,4.0,Apartment
+Hyderabad,SSB ENCLAVE 2 Turkayamjal,"2 BHK Flat in TurkaYamjal, Hyderabad",Praneeth Group,200.0,3.0,Villa
+Hyderabad,"Chevella, Hyderabad","Residential land / Plot in Chevella, Hyderabad",Unknown,271.0,4.0,Villa
+Hyderabad,"Sanjeeva Reddy Nagar, Old Mumbai Highway, Hyderabad","4 Bedroom House in Sanjeeva Reddy Nagar, Old Mumbai Highway",Abode Developers,70.68,2.0,Apartment
+Hyderabad,DSR The Classe,"4 BHK Flat in Kokapet, Hyderabad",Essen Infra,76.56,2.0,Apartment
+Hyderabad,Hallmark Treasor,"3 BHK Flat in Kokapet, Hyderabad",Unknown,91.35,3.0,Apartment
+Bangalore,Mathapathi Grand Field,"Varthur, Bangalore",Mathapathi Constructions,160.0,2.0,Apartment
+Bangalore,Platinum East Woods,"Whitefield, Bangalore",Platinum Narya Infra,190.0,3.0,Apartment
+Bangalore,Sumadhura Capitol Residences,"Whitefield, Bangalore",Sumadhura Group,112.99999999999999,2.0,Apartment
+Bangalore,Prestige Raintree Park,"Whitefield, Bangalore",Prestige Group,181.0,3.0,Apartment
+Bangalore,HSK Urban Living,"Electronic City, Bangalore",HSK Developers,214.0,4.0,Apartment
+Bangalore,Bren Zahara,"Sarjapur Road, Bangalore",Bren Corporation,327.0,3.0,Apartment
+Bangalore,Lodha Mirabelle,"Thanisandra, Bangalore",Lodha,322.0,4.0,Apartment
+Bangalore,Udbhav Gokulam,"Varthur, Bangalore",Udbhav Builders and Developers,360.0,3.0,Apartment
+Bangalore,Inspira Infinity,"Carmelaram, Sarjapur Road",Inspira Builders Bangalore,450.0,4.0,Apartment
+Bangalore,Keya Spring,"Bannerghatta Road, Bangalore",Keya Homes,555.0,5.0,Apartment
+Bangalore,Lodha Azur,"Bannerghatta Road, Bangalore",Lodha,91.09,2.0,Apartment
+Bangalore,Arvind Bel Air,"Yelahanka, Bangalore",Arvind Smartspaces,98.58,3.0,Apartment
+Bangalore,Nambiar District 25,"Sarjapur Road, Bangalore",Nambiar Builders,249.00000000000003,3.0,Apartment
+Bangalore,Concorde Antares,"Vidyaranyapura, Bangalore",Concorde,267.0,2.0,Apartment
+Bangalore,Assetz Ren and Rei,"Hosa Road, Bangalore",Assetz Property Group,373.0,3.0,Apartment
+Bangalore,Countryside Raindance,"Electronics City Phase 1, Bangalore",Countryside Group,459.99999999999994,4.0,Apartment
+Bangalore,Brigade El Dorado,"Bagalur, Bangalore",Brigade Group,150.0,3.0,Apartment
+Bangalore,DSR Highland Greenz,"Sarjapur Road, Bangalore",DSR Infra Projects Bangalore,127.0,2.0,Apartment
+Bangalore,Birla Evara,"Sarjapur Road, Bangalore",Birla Estates,162.0,3.0,Apartment
+Bangalore,Godrej Lakeside Orchard,"Sarjapur Road, Bangalore",Godrej Properties,157.0,2.0,Apartment
+Bangalore,HM Scottsville,"Sarjapur Road, Bangalore",HM Group,267.0,3.0,Apartment
+Bangalore,Prestige Southern Star,"Begur Road, Bangalore",Prestige Group,325.0,4.0,Apartment
+Bangalore,Provident Botanico,"Soukya Road, Whitefield, Bangalore",Provident Housing,299.0,3.0,Apartment
+Bangalore,Brigade Citrine,"Budigere Cross, Bangalore",Brigade Group,360.0,4.0,Apartment
+Bangalore,Shapoorji Pallonji Parkwest,"Binny Pete, Magadi Road",Shapoorji Pallonji,129.0,2.0,Apartment
+Bangalore,Ajmera Marina,"Kempanahalli, Near Yelahanka New Town, Bangalore",Ajmera Group,151.0,3.0,Apartment
+Bangalore,Purvi Arvindam,"Varthur, Bangalore",Sai Purvi Infrastructure,185.0,2.0,Apartment
+Bangalore,DSR The Address,"Sarjapur Road, Bangalore",DSR Infra Projects Bangalore,262.0,3.0,Apartment
+Bangalore,Ashish ANR Row House,"Whitefield, Bangalore",Aashish Developer Bangalore,369.0,4.0,Apartment
+Bangalore,Brigade Valencia,"Electronic City, Bangalore",Brigade Group,146.0,2.0,Apartment
+Bangalore,Sreeyan Square,"Hennur Road, Bangalore",Sreeyan Developers,178.0,3.0,Apartment
+Bangalore,Signature Heights,"Electronic City, Bangalore",Signature Dwellings,209.0,4.0,Apartment
+Bangalore,SSVR Niyaara,"Varthur, Bangalore",SSVR Builders,183.0,3.0,Apartment
+Bangalore,DSR Elixir,"Whitefield, Bangalore",DSR Infra Projects Bangalore,120.0,2.0,Apartment
+Bangalore,Brigade Insignia,"Yelahanka, Bangalore",Brigade Group,157.0,3.0,Apartment
+Bangalore,Veda Vilasa Villaments,"Kengeri, Bangalore",Sai Samrudhi Constructions,64.93,1.0,Apartment
+Bangalore,Mahindra Zen,"Begur, Bangalore",Mahindra Lifespaces,111.00000000000001,2.0,Apartment
+Bangalore,Gopalan Florenza,"Banashankari, Bangalore",Gopalan Enterprises,177.0,3.0,Apartment
+Bangalore,BRR North Excellency Phase 1,"Thanisandra, Bangalore",BRR Hallmark Developers,,1.0,Apartment
+Bangalore,Godrej Ananda,"Bagalur, Bangalore",Godrej Properties,125.0,2.0,Apartment
+Bangalore,Mana Cresta,"Chikkanayakanahalli, Near Sarjapur Road, Bangalore",Mana Projects,161.0,3.0,Apartment
+Bangalore,Keya Life By The Lake,"Hebbal, Bangalore",Keya Homes,77.99,1.0,Apartment
+Bangalore,Keya Around The Life,"Whitefield, Bangalore",Keya Homes,141.0,2.0,Apartment
+Bangalore,Mana Skandas The Right Life,"Sarjapur Road, Bangalore",Neo Build Ventures,217.0,3.0,Apartment
+Bangalore,Shashank Akshaya,"Kogilu, Near Yelahanka, Bangalore",Shashank Infra Projects,293.0,4.0,Apartment
+Bangalore,DSR The Courtyard,"Sarjapur Road, Bangalore",DSR Infra Projects Bangalore,157.0,2.0,Apartment
+Bangalore,Futureisone Aiikya Village,"Sarjapur Road, Bangalore",Futureisone,269.0,3.0,Apartment
+Bangalore,Nava Vajra,"Horamavu Agara, Bangalore",Nava Jyothi Shelters,329.0,4.0,Apartment
+Bangalore,Infinity Greenwoods,"Varthur, Bangalore",Infinity Builders And Constructions,204.0,2.0,Apartment
+Bangalore,Godrej Ananda Phase 2,"Bagalur, Bangalore",Godrej Properties,243.00000000000003,3.0,Apartment
+Bangalore,Ajmera Marina,"Kempanahalli, Near Yelahanka New Town, Bangalore",Ajmera Group,111.00000000000001,2.0,Apartment
+Bangalore,Purvi Arvindam,"Varthur, Bangalore",Sai Purvi Infrastructure,149.0,3.0,Apartment
+Bangalore,DSR The Address,"Sarjapur Road, Bangalore",DSR Infra Projects Bangalore,170.0,3.0,Apartment
+Bangalore,Ashish ANR Row House,"Whitefield, Bangalore",Aashish Developer Bangalore,161.0,2.0,Apartment
+Bangalore,Brigade Valencia,"Electronic City, Bangalore",Brigade Group,204.99999999999997,3.0,Apartment
+Bangalore,Sreeyan Square,"Hennur Road, Bangalore",Sreeyan Developers,279.0,4.0,Apartment
+Bangalore,Signature Heights,"Electronic City, Bangalore",Signature Dwellings,313.0,4.0,Villa
+Bangalore,SSVR Niyaara,"Varthur, Bangalore",SSVR Builders,182.0,2.0,Apartment
+Bangalore,DSR Elixir,"Whitefield, Bangalore",DSR Infra Projects Bangalore,212.0,3.0,Apartment
+Bangalore,Brigade Insignia,"Yelahanka, Bangalore",Brigade Group,314.0,4.0,Apartment
+Bangalore,Veda Vilasa Villaments,"Kengeri, Bangalore",Sai Samrudhi Constructions,70.38,2.0,Apartment
+Bangalore,Mahindra Zen,"Begur, Bangalore",Mahindra Lifespaces,91.47,3.0,Apartment
+Bangalore,Gopalan Florenza,"Banashankari, Bangalore",Gopalan Enterprises,102.0,2.0,Apartment
+Bangalore,BRR North Excellency Phase 1,"Thanisandra, Bangalore",BRR Hallmark Developers,147.0,3.0,Apartment
+Bangalore,Godrej Ananda,"Bagalur, Bangalore",Godrej Properties,103.0,2.0,Apartment
+Bangalore,Mana Cresta,"Chikkanayakanahalli, Near Sarjapur Road, Bangalore",Mana Projects,136.0,3.0,Apartment
+Bangalore,Keya Life By The Lake,"Hebbal, Bangalore",Keya Homes,476.0,4.0,Villa
+Bangalore,Keya Around The Life,"Whitefield, Bangalore",Keya Homes,484.99999999999994,5.0,Villa
+Bangalore,Mana Skandas The Right Life,"Sarjapur Road, Bangalore",Neo Build Ventures,360.0,3.0,Apartment
+Bangalore,Shashank Akshaya,"Kogilu, Near Yelahanka, Bangalore",Shashank Infra Projects,469.00000000000006,4.0,Apartment
+Bangalore,DSR The Courtyard,"Sarjapur Road, Bangalore",DSR Infra Projects Bangalore,900.0,5.0,Apartment
+Bangalore,Futureisone Aiikya Village,"Sarjapur Road, Bangalore",Futureisone,286.0,3.0,Villa
+Bangalore,Nava Vajra,"Horamavu Agara, Bangalore",Nava Jyothi Shelters,370.0,4.0,Villa
+Bangalore,Infinity Greenwoods,"Varthur, Bangalore",Infinity Builders And Constructions,254.99999999999997,3.0,Apartment
+Bangalore,Godrej Ananda Phase 2,"Bagalur, Bangalore",Godrej Properties,285.0,4.0,Apartment
+Bangalore,Jagadhabi Premier,"Whitefield, Bangalore",Jagadhabi Constructions,135.0,2.0,Apartment
+Bangalore,IGN The Grove,"Kasturi Nagar, Old Madras Road",IGN Properties,104.0,2.0,Apartment
+Bangalore,Birla Trimaya,"Devanahalli, Bangalore",Birla Estates,155.0,3.0,Apartment
+Bangalore,SreeReddy Parivar,"Kamanahalli, Bangalore",SreeReddy Properties,,1.0,Apartment
+Bangalore,VIHA by ROAHA INFRA,"Sarjapur, Bangalore",Roaha Infra,186.0,2.0,Apartment
+Bangalore,Pride Euphora,"KR Puram, Bangalore",Pride Group,192.0,3.0,Apartment
+Bangalore,Assetz Sora and Saki,"Bagalur, Bangalore",Assetz Property Group,,1.0,1 RK Studio Apartment
+Bangalore,Serene Gardens,"Hennur Road, Bangalore",Jacobson Developers,119.0,2.0,Apartment
+Bangalore,L and T Elara Celestia,"Yelahanka, Bangalore",LNT Realty,143.0,3.0,Apartment
+Bangalore,Gopalan Olympia,"Mysore Road, Bangalore",Gopalan Enterprises,412.0,4.0,Villa
+Bangalore,Pavani Mirabilia,"Whitefield, Bangalore",Pavani Group,418.0,5.0,Villa
+Bangalore,Ivory at Brigade Orchards,"Devanahalli, Bangalore",Brigade Group,186.0,3.0,Apartment
+Bangalore,Provident Ecopolitan,"Huvinayakanahalli, Near Bagalur, Bangalore",Provident Housing,267.0,4.0,Apartment
+Bangalore,SNN Estates Felicity,"Thanisandra, Bangalore",SNN Estates,217.0,3.0,Apartment
+Bangalore,Concorde Mayfair,"Yelahanka, Bangalore",Concorde,236.0,4.0,Apartment
+Bangalore,Bhartiya Nikoo Homes 5,"Chokkanahalli, Near Thanisandra, Bangalore",Bhartiya Group,77.09,2.0,Apartment
+Bangalore,Godrej Aqua,"Hosahalli, Bangalore North",Godrej Properties,110.00000000000001,3.0,Apartment
+Bangalore,Adarsh Welkin Park,"Sarjapur Road, Bangalore",Adarsh Group,110.00000000000001,2.0,Apartment
+Bangalore,Assetz 22 and CREST,"Yeshwanthpur, Bangalore",Assetz Property Group,152.0,3.0,Apartment
+Bangalore,Make Borough,"Doddaballapur, Doddaballapur Road",Make Developers,157.0,2.0,Apartment
+Bangalore,Shriram Codename Smash Hit,"Yelahanka, Bangalore",Shriram Properties Limited,184.0,3.0,Apartment
+Bangalore,Prestige Suncrest,"Electronic City, Bangalore",Prestige Group,219.0,4.0,Apartment
+Bangalore,SD Sri Chakra Farms,"Jangamakote, Chikkaballapur, Bangalore",SD Groups,243.00000000000003,5.0,Apartment
+Bangalore,JRC Palladio,"Sarjapur Road, Bangalore",JRC Projects,82.19,2.0,Apartment
+Bangalore,Melodies of Life,"Hosa Road, Bangalore",Inspira Builders Bangalore,114.99999999999999,3.0,Apartment
+Bangalore,Jagadhabi Premier,"Whitefield, Bangalore",Jagadhabi Constructions,89.66,2.0,Apartment
+Bangalore,IGN The Grove,"Kasturi Nagar, Old Madras Road",IGN Properties,146.0,3.0,Apartment
+Bangalore,Birla Trimaya,"Devanahalli, Bangalore",Birla Estates,180.0,3.0,Apartment
+Bangalore,SreeReddy Parivar,"Kamanahalli, Bangalore",SreeReddy Properties,63.71,1.0,Apartment
+Bangalore,VIHA by ROAHA INFRA,"Sarjapur, Bangalore",Roaha Infra,112.99999999999999,2.0,Apartment
+Bangalore,Pride Euphora,"KR Puram, Bangalore",Pride Group,445.0,3.0,Apartment
+Bangalore,Assetz Sora and Saki,"Bagalur, Bangalore",Assetz Property Group,263.0,3.0,Villa
+Bangalore,Serene Gardens,"Hennur Road, Bangalore",Jacobson Developers,48.48,2.0,Apartment
+Bangalore,L and T Elara Celestia,"Yelahanka, Bangalore",LNT Realty,172.0,3.0,Villa
+Bangalore,Gopalan Olympia,"Mysore Road, Bangalore",Gopalan Enterprises,224.00000000000003,4.0,Villa
+Bangalore,Pavani Mirabilia,"Whitefield, Bangalore",Pavani Group,212.0,3.0,Apartment
+Bangalore,Ivory at Brigade Orchards,"Devanahalli, Bangalore",Brigade Group,386.0,4.0,Apartment
+Bangalore,Provident Ecopolitan,"Huvinayakanahalli, Near Bagalur, Bangalore",Provident Housing,172.0,2.0,Apartment
+Bangalore,SNN Estates Felicity,"Thanisandra, Bangalore",SNN Estates,199.0,3.0,Apartment
+Bangalore,Concorde Mayfair,"Yelahanka, Bangalore",Concorde,250.0,4.0,Apartment
+Bangalore,Bhartiya Nikoo Homes 5,"Chokkanahalli, Near Thanisandra, Bangalore",Bhartiya Group,128.0,2.0,Apartment
+Bangalore,Godrej Aqua,"Hosahalli, Bangalore North",Godrej Properties,172.0,3.0,Apartment
+Bangalore,Adarsh Welkin Park,"Sarjapur Road, Bangalore",Adarsh Group,392.0,3.0,Apartment
+Bangalore,Assetz 22 and CREST,"Yeshwanthpur, Bangalore",Assetz Property Group,459.99999999999994,4.0,Apartment
+Bangalore,Make Borough,"Doddaballapur, Doddaballapur Road",Make Developers,85.28,2.0,Apartment
+Bangalore,Shriram Codename Smash Hit,"Yelahanka, Bangalore",Shriram Properties Limited,112.99999999999999,3.0,Apartment
+Bangalore,Prestige Suncrest,"Electronic City, Bangalore",Prestige Group,138.0,2.0,Apartment
+Bangalore,SD Sri Chakra Farms,"Jangamakote, Chikkaballapur, Bangalore",SD Groups,160.0,3.0,Apartment
+Bangalore,JRC Palladio,"Sarjapur Road, Bangalore",JRC Projects,254.99999999999997,4.0,Apartment
+Bangalore,Melodies of Life,"Hosa Road, Bangalore",Inspira Builders Bangalore,61.53,2.0,Apartment
+Bangalore,Sarang by Sumadhura Phase 1,"Doddabanahalli, Near KR Puram, Bangalore",Sumadhura Group,87.5,3.0,Apartment
+Bangalore,Goyal Riviera Uno,"Soukya Road, Whitefield, Bangalore",Goyal and Co,56.85,1.0,Apartment
+Bangalore,SKBC Serenity,"Rajajinagar, Bangalore",SKBC,103.0,2.0,Apartment
+Bangalore,Godrej Royale Woods,"Devanahalli, Bangalore",Godrej Properties,147.0,3.0,Apartment
+Bangalore,L and T Raintree Boulevard,"Hebbal, Bangalore",LNT Realty,85.18,1.0,Apartment
+Bangalore,Vaibhav Nagar,"Jangamakote, Chikkaballapur, Bangalore",Vaibhav Group,142.0,2.0,Apartment
+Bangalore,ARS Zurich,"Sompura, Sarjapur Road",ARS Infraa,202.0,3.0,Apartment
+Bangalore,KVG Superior,"Kalkere, Bangalore",KVG Builders,270.0,4.0,Apartment
+Bangalore,Sattva Park Cubix,"Devanahalli, Bangalore",Sattva Group,231.0,3.0,Apartment
+Bangalore,Mana Dale,"Kodathi, Near Sarjapur Road, Bangalore",Mana Projects,,1.0,Apartment
+Bangalore,Godrej Avenues,"Yelahanka, Bangalore",Godrej Properties,151.0,2.0,Apartment
+Bangalore,Sumadhura Epitome,"Hebbal, Bangalore",Sumadhura Group,208.0,3.0,Apartment
+Bangalore,Brigade Laguna,"Hebbal, Bangalore",Brigade Group,243.00000000000003,4.0,Apartment
+Bangalore,Serenity Gardens by SNN Estates,"Begur Road, Bangalore",SNN Estates,115.99999999999999,2.0,Apartment
+Bangalore,Rohan Upavan,"Hennur Road, Bangalore",Rohan Builders,151.0,3.0,Apartment
+Bangalore,Sattva Songbird,"Old Madras Road, Bangalore",Sattva Group,145.0,1.0,Apartment
+Bangalore,Provident Sunworth City,"Mysore Road, Bangalore",Provident Housing,220.00000000000003,2.0,Apartment
+Bangalore,Skandaavani Spirit of One,"Varthur, Bangalore",Skandaavani Shelters,286.0,3.0,Apartment
+Bangalore,Prestige Somerville,"Whitefield, Bangalore",Prestige Group,448.00000000000006,4.0,Apartment
+Bangalore,Sobha Neopolis,"Panathur, Bangalore",Sobha,328.0,3.0,Apartment
+Bangalore,Keya The Lake Terraces,"Electronics City Phase 1, Bangalore",Keya Homes,117.0,,Land
+Bangalore,DSR Parkway,"Sarjapur Road, Bangalore",DSR Infra Projects Bangalore,103.0,2.0,Apartment
+Bangalore,Pruthvi Vivanta,"Sarjapur, Bangalore",Pruthvi Projects,138.0,3.0,Apartment
+Bangalore,Sarang by Sumadhura Phase 1,"Doddabanahalli, Near KR Puram, Bangalore",Sumadhura Group,219.0,3.0,Apartment
+Bangalore,Goyal Riviera Uno,"Soukya Road, Whitefield, Bangalore",Goyal and Co,291.0,4.0,Apartment
+Bangalore,SKBC Serenity,"Rajajinagar, Bangalore",SKBC,488.99999999999994,4.0,Villa
+Bangalore,Godrej Royale Woods,"Devanahalli, Bangalore",Godrej Properties,222.00000000000003,2.0,Apartment
+Bangalore,L and T Raintree Boulevard,"Hebbal, Bangalore",LNT Realty,284.0,3.0,Apartment
+Bangalore,Vaibhav Nagar,"Jangamakote, Chikkaballapur, Bangalore",Vaibhav Group,38.0,1.0,Apartment
+Bangalore,ARS Zurich,"Sompura, Sarjapur Road",ARS Infraa,152.0,2.0,Apartment
+Bangalore,KVG Superior,"Kalkere, Bangalore",KVG Builders,198.0,3.0,Apartment
+Bangalore,Sattva Park Cubix,"Devanahalli, Bangalore",Sattva Group,,1.0,1 RK Studio Apartment
+Bangalore,Godrej Avenues,"Yelahanka, Bangalore",Godrej Properties,,2.0,Apartment
+Bangalore,Sumadhura Epitome,"Hebbal, Bangalore",Sumadhura Group,376.0,3.0,Apartment
+Bangalore,Serenity Gardens by SNN Estates,"Begur Road, Bangalore",SNN Estates,35.98,,Land
+Bangalore,Rohan Upavan,"Hennur Road, Bangalore",Rohan Builders,93.0,2.0,Apartment
+Bangalore,Sattva Songbird,"Old Madras Road, Bangalore",Sattva Group,166.0,3.0,Apartment
+Bangalore,Provident Sunworth City,"Mysore Road, Bangalore",Provident Housing,64.83,2.0,Apartment
+Bangalore,Skandaavani Spirit of One,"Varthur, Bangalore",Skandaavani Shelters,79.68,3.0,Apartment
+Bangalore,Prestige Somerville,"Whitefield, Bangalore",Prestige Group,50.13,1.0,Apartment
+Bangalore,ARS Signature Homes,"Kada Agrahara, Sarjapur Road, Bangalore",ARS Infraa,78.46,2.0,Apartment
+Bangalore,Sobha Neopolis,"Panathur, Bangalore",Sobha,113.99999999999999,3.0,Apartment
+Bangalore,Keya The Lake Terraces,"Electronics City Phase 1, Bangalore",Keya Homes,162.0,3.0,Apartment
+Bangalore,DSR Parkway,"Sarjapur Road, Bangalore",DSR Infra Projects Bangalore,191.0,4.0,Apartment
+Bangalore,Pruthvi Vivanta,"Sarjapur, Bangalore",Pruthvi Projects,,1.0,Apartment
+Bangalore,SBR One Residence,"Whitefield, Bangalore",SBR Group,113.99999999999999,2.0,Apartment
+Bangalore,Euphoria in The East,"Whitefield, Bangalore",Sowparnika Projects,150.0,3.0,Apartment
+Bangalore,Goyal Orchid Salisbury,"Thirumenahalli, Near Thanisandra Main Road, Bangalore",Goyal and Co,204.0,2.0,Apartment
+Bangalore,Casa Life by Bhavisha Homes,"Sarjapur Road, Bangalore",Bhavisha Properties,210.0,3.0,Apartment
+Bangalore,Brigade Horizon,"Mysore Road, Bangalore",Brigade Group,239.0,4.0,Apartment
+Bangalore,Mana Capitol,"Sarjapur Road, Bangalore",Mana Projects,260.0,3.0,Apartment
+Bangalore,Vaibhav Natures Nest,"Jangamakote, Chikkaballapur, Bangalore",Vaibhav Group,120.0,2.0,Apartment
+Bangalore,Assetz Canvas and Cove,"Begur, Bangalore",Assetz Property Group,164.0,3.0,Apartment
+Bangalore,Adarsh Park Heights,"Gunjur, Near Varthur, Bangalore",Adarsh Group,200.0,4.0,Apartment
+Bangalore,Ramsons East Park Residences,"Sarjapur Road, Bangalore",Ramsons Trendsquares,135.0,2.0,Apartment
+Bangalore,Sattva Forest Ridge,"9th Phase JP Nagar, Bangalore",Sattva Group,173.0,3.0,Apartment
+Bangalore,Shriram Pristine Estates,"Doddaballapur, Doddaballapur Road",Shriram Properties Limited,273.0,4.0,Apartment
+Bangalore,Brigade Eternia,"Yelahanka, Bangalore",Brigade Enterprises Bengaluru,,1.0,Apartment
+Bangalore,Birla Trimaya Phase 3,"Devanahalli, Bangalore",Birla Estates,149.0,2.0,Apartment
+Bangalore,Godrej Woodscapes,"Budigere Cross, Bangalore",Godrej Properties,198.0,3.0,Apartment
+Bangalore,Embassy Verde,"Devanahalli, Bangalore",Embassy Group,400.0,5.0,Apartment
+Bangalore,STSK Nature Elation,"Varthur, Bangalore",STSK Builders and Developers,94.88,1.0,Apartment
+Bangalore,Sobha Madison Heights,"Hosur Road, Bangalore",Sobha,176.0,2.0,Apartment
+Bangalore,Century Liva,"Yelahanka, Bangalore",Century Real Estate Holdings,227.99999999999997,3.0,Apartment
+Bangalore,Mantri Serenity,"Kanakapura Road, Bangalore",Mantri Developers,514.0,4.0,Apartment
+Bangalore,Brigade Sanctuary,"Chikkavaderapura, Near Varthur, Bangalore",Brigade Group,62.99,2.0,Apartment
+Bangalore,Vaswani Starlight,"Whitefield, Bangalore",Vaswani Group,74.99,3.0,Apartment
+Bangalore,Purva Atmosphere,"Thanisandra Main Road, Bangalore North",Puravankara,342.0,4.0,Villa
+Bangalore,SBR One Residence,"Whitefield, Bangalore",SBR Group,221.0,3.0,Apartment
+Bangalore,Euphoria in The East,"Whitefield, Bangalore",Sowparnika Projects,93.9,2.0,Apartment
+Bangalore,Goyal Orchid Salisbury,"Thirumenahalli, Near Thanisandra Main Road, Bangalore",Goyal and Co,135.0,3.0,Apartment
+Bangalore,Casa Life by Bhavisha Homes,"Sarjapur Road, Bangalore",Bhavisha Properties,94.0,1.0,Apartment
+Bangalore,Brigade Horizon,"Mysore Road, Bangalore",Brigade Group,152.0,2.0,Apartment
+Bangalore,Mana Capitol,"Sarjapur Road, Bangalore",Mana Projects,177.0,3.0,Apartment
+Bangalore,Vaibhav Natures Nest,"Jangamakote, Chikkaballapur, Bangalore",Vaibhav Group,327.0,3.0,Villa
+Bangalore,Assetz Canvas and Cove,"Begur, Bangalore",Assetz Property Group,397.0,4.0,Villa
+Bangalore,Adarsh Park Heights,"Gunjur, Near Varthur, Bangalore",Adarsh Group,91.42,2.0,Apartment
+Bangalore,Ramsons East Park Residences,"Sarjapur Road, Bangalore",Ramsons Trendsquares,120.0,3.0,Apartment
+Bangalore,Sattva Forest Ridge,"9th Phase JP Nagar, Bangalore",Sattva Group,227.0,4.0,Apartment
+Bangalore,Shriram Pristine Estates,"Doddaballapur, Doddaballapur Road",Shriram Properties Limited,,1.0,Apartment
+Bangalore,Brigade Eternia,"Yelahanka, Bangalore",Brigade Enterprises Bengaluru,146.0,2.0,Apartment
+Bangalore,Birla Trimaya Phase 3,"Devanahalli, Bangalore",Birla Estates,408.0,3.0,Apartment
+Bangalore,Godrej Woodscapes,"Budigere Cross, Bangalore",Godrej Properties,43.18,,Land
+Bangalore,Embassy Verde,"Devanahalli, Bangalore",Embassy Group,276.0,3.0,Apartment
+Bangalore,STSK Nature Elation,"Varthur, Bangalore",STSK Builders and Developers,,1.0,Apartment
+Bangalore,Sobha Madison Heights,"Hosur Road, Bangalore",Sobha,159.0,2.0,Apartment
+Bangalore,Century Liva,"Yelahanka, Bangalore",Century Real Estate Holdings,220.00000000000003,3.0,Apartment
+Bangalore,Mantri Serenity,"Kanakapura Road, Bangalore",Mantri Developers,159.0,2.0,Apartment
+Bangalore,Folium by Sumadhura Phase 3,"Whitefield, Bangalore",Sumadhura Group,244.0,3.0,Apartment
+Bangalore,SreeReddy Ihitha,"Marathahalli, Bangalore",SreeReddy Properties,281.0,4.0,Apartment
+Bangalore,Brigade Sanctuary,"Chikkavaderapura, Near Varthur, Bangalore",Brigade Group,69.8,1.0,Apartment
+Bangalore,Vaswani Starlight,"Whitefield, Bangalore",Vaswani Group,137.0,2.0,Apartment
+Bangalore,Purva Atmosphere,"Thanisandra Main Road, Bangalore North",Puravankara,174.0,3.0,Apartment
+Bangalore,Goyal Orchid Life,"Varthur, Bangalore",Goyal and Co,147.0,2.0,Apartment
+Bangalore,SNN Clermont,"Hebbal, Bangalore",SNN Estates,224.00000000000003,3.0,Apartment
+Bangalore,Modern Serene Heights,"Sarjapur Road, Bangalore",Modern Spaaces,965.0,4.0,Apartment
+Bangalore,GM GOVIANU,"Seshadripuram, Bangalore Central",Govianu Wealth Management,747.0,5.0,Apartment
+Bangalore,Sattva Lumina,"Yelahanka, Bangalore",Sattva Group,141.0,2.0,Apartment
+Bangalore,Prestige Glenbrook,"Whitefield, Bangalore",Prestige Group,175.0,3.0,Apartment
+Bangalore,Modern Spaaces Engrace Vista,"Sarjapur Road, Bangalore",Modern Spaaces,330.0,3.0,Apartment
+Bangalore,Raki Amaryllis,"Begur Road, Bangalore",Raki Developers,390.0,4.0,Apartment
+Bangalore,Casagrand Casablanca,"Kanakapura Road, Bangalore",Casagrand,62.4,1.0,Apartment
+Bangalore,Bhartiya City Nikoo Homes 6,"Kogilu, Near Yelahanka, Bangalore",Bhartiya Group,101.0,2.0,Apartment
+Bangalore,Total Environment Pursuit of A Radical Rhapsody,"Hoodi, Bangalore",Total Environment Homes,158.0,3.0,Apartment
+Bangalore,GRC Sapphire Spring,"Gottigere, Bannerghatta Road",GRC Infra,36.04,1.0,1 RK Studio Apartment
+Bangalore,Vajram Newtown 2,"Thanisandra Main Road, Bangalore North",Vajram Group,174.0,2.0,Apartment
+Bangalore,Kalyani LivingTree,"Bagalur, Bangalore",Kalyani Developers Bangalore,241.0,3.0,Apartment
+Bangalore,Radiance Platinum,"Koramangala, Bangalore",Radiance Realty,337.0,4.0,Apartment
+Bangalore,Sattva Misty Charm,"Kanakapura Road, Bangalore",Sattva Group,166.0,3.0,Apartment
+Bangalore,Elegant Takt,"Yelahanka, Bangalore",Elegant Builders and Developers Bangalore,91.18,2.0,Apartment
+Bangalore,Prestige Waterford,"Whitefield, Bangalore",Prestige Group,121.0,3.0,Apartment
+Bangalore,Urbanrise Paradise On Earth,"Kanakapura Road, Bangalore",Urbanrise,115.99999999999999,2.0,Apartment
+Bangalore,Sowparnika Rhythm of Rain,"Whitefield, Bangalore",Sowparnika Projects,139.0,3.0,Apartment
+Bangalore,Assetz Soho and Sky,"Jakkur, Bangalore",Assetz Property Group,231.0,4.0,Apartment
+Bangalore,DNR Parklink,"Hennur Road, Bangalore",DNR Group,390.0,5.0,Apartment
+Bangalore,TVS Emerald Cascadia,"Sudhama Nagar, Mission Road, Bangalore",Emerald Haven Realty,,1.0,Apartment
+Bangalore,Suraksha Springs,"Begur Road, Bangalore",Suraksha Group,179.0,2.0,Apartment
+Bangalore,Bhavisha Meadows,"Chandapura, Bangalore",Bhavisha Properties,57.77,2.0,Apartment
+Bangalore,Total Environment Tangled Up in Green,"Devanahalli, Bangalore",Total Environment Homes,78.7,3.0,Apartment
+Bangalore,Soulace By Modern Spaaces,"Kada Agrahara, Sarjapur Road, Bangalore",Modern Spaaces,625.0,,Land
+Bangalore,Assetz 63 Degree East,"Kodathi, Near Sarjapur Road, Bangalore",Assetz Property Group,350.0,4.0,Villa
+Bangalore,Adithya Homes Paradise,"Whitefield, Bangalore",Adithya Homes,450.0,5.0,Villa
+Bangalore,Provident Deansgate,"IVC Road, Devanahalli",Provident Housing,,,Land
+Bangalore,Century Ethos,"Hebbal, Bangalore",Century Real Estate Holdings,,1.0,Apartment
+Bangalore,Merusri Swamy Orchards,"Devanahalli, Bangalore",Merusri Developers,181.0,2.0,Apartment
+Bangalore,Casagrand Flamingo,"Begur, Bangalore",Casagrand,231.99999999999997,3.0,Apartment
+Bangalore,Casagrand Vivacity,"Electronic City, Bangalore",Casagrand,150.0,,Land
+Bangalore,Bren Aspera,"Bandapura, Old Madras Road",Bren Corporation,209.0,3.0,Villa
+Bangalore,NCC Urban Lake Springs,"JP Nagar, Bangalore",NCC Urban Infrastructure,480.0,3.0,Apartment
+Bangalore,Brigade Orchards Goldspire,"Devanahalli, Bangalore",Brigade Group,723.0,4.0,Apartment
+Bangalore,Nambiar Millennia,"Sarjapur Road, Bangalore",Nambiar Builders,432.0,4.0,Villa
+Bangalore,Ajmera Lakeside Paradise,"Kempanahalli, Near Yelahanka New Town, Bangalore",Ajmera Group,,2.0,Apartment
+Bangalore,Esteem South Park,"Gottigere, Bannerghatta Road",Esteem South Parks,277.0,3.0,Apartment
+Bangalore,Sumadhura Panorama,"Devanahalli, Bangalore",Sumadhura Group,,4.0,Apartment
+Bangalore,Sattva Aeropolis,"Devanahalli, Bangalore",Sattva Group,,1.0,Apartment
+Bangalore,Mantri Webcity,"Hennur Road, Bangalore",Mantri Developers,,2.0,Apartment
+Bangalore,Prestige Pine Forest,"Whitefield, Bangalore",Prestige Group,125.0,3.0,Apartment
+Bangalore,Prestige White Meadows,"Whitefield, Bangalore",Prestige Group,,2.0,Apartment
+Bangalore,Arvind Greatlands,"Devanahalli, Bangalore",Arvind Smartspaces,,3.0,Apartment
+Bangalore,Binary Temple Tree,"Sarjapur Road, Bangalore",Binary Realty,225.99999999999997,4.0,Apartment
+Bangalore,Prestige Finsbury Park,"Bagalur, Bangalore",Prestige Group,,1.0,Apartment
+Bangalore,Sattva Anugraha,"Vijayanagar, Bangalore",Sattva Group,111.00000000000001,2.0,Apartment
+Bangalore,Sobha Manhattan Towers Town Park,"Yadavanahalli, Near Hosur Road, Bangalore",Sobha,155.0,3.0,Apartment
+Bangalore,Sobha Royal Pavilion,"Sarjapur Road, Bangalore",Sobha,108.0,2.0,Apartment
+Bangalore,Amberstone Ventara Residences,"Sarjapur Road, Bangalore",Amberstone Properties,151.0,3.0,Apartment
+Bangalore,Inspira Tropical Garden,"Electronic City Phase 2, Bangalore",Inspira builders,78.3,2.0,Apartment
+Bangalore,Embassy Lake Terraces,"Hebbal Kempapura, Near Hebbal, Bangalore",Embassy Group,210.0,3.0,Apartment
+Bangalore,Mahaadeva My Fortune,"Electronics City Phase 1, Bangalore",Mahaadeva Constructions,211.0,2.0,Apartment
+Bangalore,Trifecta Vanto,"Sarjapur Road, Bangalore",Trifecta Projects,322.0,3.0,Apartment
+Bangalore,Svamitva Soul Spring,"HSR Layout, Bangalore",Svamitva Infra,312.0,4.0,Apartment
+Bangalore,Celebrity MS Gardenia,"Chandapura, Bangalore",Celebrity Infrastructures,185.0,3.0,Apartment
+Bangalore,Visista by Vista Spaces Okas,"Yelahanka, Bangalore",Vista Spaces,231.0,4.0,Apartment
+Bangalore,Sobha Windsor,"Whitefield, Bangalore",Sobha,95.48,2.0,Apartment
+Bangalore,Provident Capella,"Samethanahalli, Near Whitefield, Bangalore",Provident Housing,127.0,3.0,Apartment
+Bangalore,GRC Shreekrish,"Sarjapur Road, Bangalore",GRC Infra,546.0,3.0,Apartment
+Bangalore,Vaswani Exquisite,"Hoodi, Bangalore",Vaswani Group,1095.0,4.0,Apartment
+Bangalore,Heriitage Signature,"Shanti Nagar, Bangalore",Heriitage Infrastructures,1246.0,5.0,Apartment
+Bangalore,SLV Icon,"Yelahanka, Bangalore",SLV Developers,75.08,2.0,Apartment
+Bangalore,Shriram Solitaire,"Yelahanka New Town, Bellari Road",Shriram Properties Limited,87.75,3.0,Apartment
+Bangalore,Srikara Urban Park,"Electronics City Phase 1, Bangalore",Srikara Structures,119.0,2.0,Apartment
+Bangalore,2gTula,"Hoodi, Bangalore",2getherments Infra,134.0,3.0,Apartment
+Bangalore,Provident Park Square,"Kanakapura Road, Bangalore",Provident Housing,,1.0,Apartment
+Bangalore,Mahidhara Harmony,"Sarjapur Road, Bangalore",Mahidhara Projects,202.99999999999997,2.0,Apartment
+Bangalore,Casagrand Zaiden,"Kanakapura Road, Bangalore",Casagrand,401.0,3.0,Apartment
+Bangalore,Purva Meraki,"HSR Layout, Bangalore",Puravankara,375.0,4.0,Apartment
+Bangalore,Mahendra Arto Helix,"Electronic City, Bangalore",Mahendra Arto LLP,114.99999999999999,2.0,Apartment
+Bangalore,Century Regalia,"Indira Nagar, Bangalore East",Century Real Estate Holdings,157.0,3.0,Apartment
+Bangalore,Abhee Riviera Royale,"Kudlu Gate, Bangalore",Abhee Ventures,367.0,2.0,Apartment
+Bangalore,Goyal Orchid Platinum,"Whitefield, Bangalore",Goyal and Co,450.0,3.0,Apartment
+Bangalore,Hinduja El Jardin,"Thirumenahalli, Near Thanisandra Main Road, Bangalore",Hinduja Holdings,550.0,4.0,Apartment
+Bangalore,Meda East Winds,"Panathur, Bangalore",Meda Projects,108.0,2.0,Apartment
+Bangalore,Adarsh Lumina,"Halanayakanahalli, Bangalore",Adarsh Group,156.0,3.0,Apartment
+Bangalore,Sobha Sentosa,"Balagere, Near Panathur, Bangalore",Sobha,188.0,2.0,Apartment
+Bangalore,Folium By Sumadhura Phase 2,"Whitefield, Bangalore",Sumadhura Group,256.0,3.0,Apartment
+Bangalore,Fairmont At Brigade Orchards,"Devanahalli, Bangalore",Brigade Group,272.0,4.0,Apartment
+Bangalore,JRC Wild Woods,"Sarjapur Road, Bangalore",JRC Projects,195.0,3.0,Apartment
+Bangalore,Sobha Infinia,"Agara Village, HSR Layout",Sobha,,1.0,Apartment
+Bangalore,Shriram The Poem,"Jalahalli, BEL Road, Bangalore",Shriram Properties Limited,120.0,2.0,Apartment
+Bangalore,Adarsh Tropica,"Chikkanayakanahalli, Near Sarjapur Road, Bangalore",Orchids Apartments,176.0,3.0,Apartment
+Bangalore,Elegant Hermitage,"Rajarajeshwari Nagar, Bangalore",Elegant Builders Bangalore,141.0,2.0,Apartment
+Bangalore,The Presidential Tower,"Yeshwanthpur, Bangalore",Golden Gate CNTC,186.0,3.0,Apartment
+Bangalore,DS MAX Sky Sisira,"Yelahanka, Bangalore",DS Max Properties,90.3,1.0,Apartment
+Bangalore,Brigade Atmosphere,"Devanahalli, Bangalore",Brigade Group,235.0,3.0,Apartment
+Bangalore,Navanaami Courtyard Of Life,"Kodathi, Near Sarjapur Road, Bangalore",Navanaami Projects,,2.0,Apartment
+Bangalore,Sobha Dream Gardens,"Thanisandra, Bangalore",Sobha,332.0,3.0,Apartment
+Bangalore,Trishul Happy Homes Arghya,"Electronics City Phase 1, Bangalore",Trishul Builders and Promoters,393.0,4.0,Apartment
+Bangalore,Meridian Park at The Prestige City,"Sarjapur Road, Bangalore",Prestige Group,60.16,1.0,Apartment
+Bangalore,MSR Passion Square,"Sarjapur Road, Bangalore",MSR Shelters LLP,129.0,2.0,Apartment
+Bangalore,Godrej Park Retreat,"Sarjapur Road, Bangalore",Godrej Properties,147.0,3.0,Apartment
+Bangalore,Phoenix Kessaku,"Rajajinagar, Bangalore",The Phoenix Mills,163.0,2.0,Apartment
+Bangalore,Kumar Prospera,"Hennur Road, Bangalore",Kumar Properties,275.0,3.0,Apartment
+Bangalore,Total Windmills Of Your Mind,"Whitefield, Bangalore",Total Environment Homes,338.0,4.0,Apartment
+Bangalore,Akarsh Adarsh Rosewood,"Doddakannelli, Whitefield, Bangalore",Akarsh Residence,,3.0,Apartment
+Bangalore,Divine Green Leaf,"Yelahanka, Bangalore",Green Leaf Projects,1037.0,4.0,Apartment
+Bangalore,Total Environment The Magic Faraway Tree,"Kanakapura Road, Bangalore",Total Environment Homes,,5.0,Apartment
+Bangalore,Phoenix One Bangalore West,"Rajajinagar, Bangalore",The Phoenix Mills,120.0,2.0,Apartment
+Bangalore,The Imperial Address,"Chandapura, Bangalore",Address Maker Life Spaces,179.0,3.0,Apartment
+Bangalore,Prestige Park Grove,"Whitefield, Bangalore",Prestige Group,,2.0,Apartment
+Bangalore,HM Indigo,"Kothnur, JP Nagar",HM Group,755.0,3.0,Apartment
+Bangalore,Muppiri Pursuit of Happiness,"JP Nagar, Bangalore",Muppiri Developers,910.0,4.0,Apartment
+Bangalore,Shriram 107 Southeast,"Attibele, Near Bommasandra, Bangalore",Shriram Properties Limited,1000.0,4.0,Villa
+Bangalore,Trendsquares Ortus 3,"Amruthahalli, Near Hebbal, Bangalore",Trendsquares Constructions,175.0,2.0,Apartment
+Bangalore,Apurva Residency,"Devanahalli, Bangalore",SR Developers Bangalore,240.0,3.0,Apartment
+Bangalore,Saritha Serene,"Gunjur, Near Varthur, Bangalore",Saritha Developers,76.37,2.0,Apartment
+Bangalore,DS Max Sky Samurai,"Soukya Road, Whitefield, Bangalore",DS Max Properties,135.0,3.0,Apartment
+Bangalore,Chaithanya Oakville,"Whitefield, Bangalore",Chaithanya,432.0,3.0,Apartment
+Bangalore,Pacifica Hamilton Tower,"Teachers Colony, Near Koramangala, Bangalore",Pacifica Companies,687.0,4.0,Apartment
+Bangalore,Futurearth Northen Lights,"Devanahalli, Bangalore",Futurearth group,144.0,,Land
+Bangalore,DS MAX SkySanman,"Anekal, Bangalore",DS Max Properties,47.33,2.0,Apartment
+Bangalore,Ahad Serenity,"Sarjapur Road, Bangalore",Ahad Builders,81.62,3.0,Apartment
+Bangalore,Valmark CityVille,"Bannerghatta Road, Bangalore",Valmark,,1.0,Apartment
+Bangalore,Mahaveer Celesse,"Yelahanka, Bangalore",Mahaveer Group,138.0,2.0,Apartment
+Bangalore,Tata The Promont,"Banashankari, Bangalore",Tata Housing,166.0,3.0,Apartment
+Bangalore,Sapthagiri Sampadha,"Hoskote, Bangalore",Sapthagiri Constructions Bengaluru,365.0,3.0,Villa
+Bangalore,Sterling Villa Grande,"Whitefield, Bangalore",Sterling Developers,476.0,4.0,Villa
+Bangalore,Brigade 7 Gardens,"Banashankari, Bangalore",Brigade Group,77.09,2.0,Apartment
+Bangalore,Vajram Newtown,"Chokkanahalli, Near Thanisandra, Bangalore",Vajram Group,102.0,3.0,Apartment
+Bangalore,Diamond Blossoms,"Sarjapur Road, Bangalore",Diamond Developers,,3.0,Villa
+Bangalore,Mahaveer Ranches,"Naganathapura, Hosa Road",Mahaveer Group,164.0,2.0,Apartment
+Bangalore,KNS Candrill,"Doddaballapur, Doddaballapur Road",KNS Infrastructure,206.99999999999997,3.0,Apartment
+Bangalore,Navins Antheia Poetry,"Dollars Colony, JP Nagar",Navin Housing and Properties,95.98,,Land
+Bangalore,Brigade Cosmopolis,"Whitefield, Bangalore",Brigade Group,,2.0,Apartment
+Bangalore,Nyra Sunterra,"Sarjapur, Bangalore",Nyra Estates and projects,,3.0,Apartment
+Bangalore,Spectra Parijatha,"Whitefield, Bangalore",Spectra Constructions Private Limited,,4.0,Apartment
+Bangalore,Housso Grevillea,"Hoskote, Bangalore",Housso,202.99999999999997,2.0,Apartment
+Bangalore,Ankuraa Meridian,"Belathur, KR Puram",Ankuraa Developers,558.0,3.0,Apartment
+Bangalore,Mars Planet,"Hosakerehalli, Near Raja Rajeshwari Nagar, Bangalore",Mars Builders,528.0,4.0,Apartment
+Bangalore,Suraksha Heritage Park,"Begur Road, Bangalore",Suraksha Group,190.0,4.0,Villa
+Bangalore,Elegant Altima,"Kanakapura Road, Bangalore",Elegant Builders Bangalore,,3.0,Apartment
+Bangalore,SNN Raj Serenity,"Begur Road, Bangalore",SNN Estates,115.99999999999999,2.0,Apartment
+Bangalore,Raja Woods Parkk,"9th Phase JP Nagar, Bangalore",Raja Housing Ltd,219.0,3.0,Apartment
+Bangalore,Elegant Terraces,"Hosakerehalli, Near Raja Rajeshwari Nagar, Bangalore",Elegant Builders Bangalore,,4.0,Apartment
+Bangalore,VK Krishna Gardenia,"Kanakapura Road, Bangalore",VK Developers,391.0,4.0,Villa
+Bangalore,Elite Brookvale,"Rajarajeshwari Nagar, Bangalore",Elite Infrastructures Bangalore,126.0,2.0,Apartment
+Bangalore,Panchmukhi Paradise,"Rajarajeshwari Nagar, Bangalore",Panchmukhi Infrastructure,173.0,3.0,Apartment
+Bangalore,Elegant Tranquility,"Rajarajeshwari Nagar, Bangalore",Elegant Builders Bangalore,102.0,2.0,Apartment
+Bangalore,Sri Garudadri Gardenia,"Kanakapura Road, Bangalore",SRI GARUDADRI CONSTRUCTIONS,127.0,3.0,Apartment
+Bangalore,Brigade Omega,"Banashankari Stage 6, Bangalore",Brigade Group,76.06,2.0,Apartment
+Bangalore,Mahaveer Sitara,"5th Phase JP Nagar, Bangalore",Mahaveer Group,98.8,3.0,Apartment
+Bangalore,Goyal Orchid Bloomsberry,"Varthur, Bangalore",Goyal and Co,100.0,2.0,Apartment
+Bangalore,Preeti Iksa Ville,"Chikkajala , Bangalore",Preeti Developers,123.0,3.0,Apartment
+Bangalore,Elita Promenade,"7th Phase JP Nagar, Bangalore",Elita Homes,,2.0,Apartment
+Bangalore,Sri MGR Windsor Gardens,"5th Phase JP Nagar, Bangalore",Sri Manjunatha Developers,188.0,3.0,Apartment
+Bangalore,Sipani Royal Heritage,"Chandapura, Bangalore",Sipani Properties,,4.0,Apartment
+Bangalore,Prestige Lake Ridge,"Uttarahalli, Bangalore",Prestige Group,120.0,2.0,Apartment
+Bangalore,Sobha Sterling Infinia,"Koramangala, Bangalore",Sobha,150.0,3.0,Apartment
+Bangalore,Nambiar Ellegenza,"Sarjapur Road, Bangalore",Nambiar Builders,143.0,2.0,Apartment
+Bangalore,TVS Isle of Trees,"Hebbal, Bangalore",TVS Emerald,220.00000000000003,3.0,Apartment
+Bangalore,Puravankara Purva Park Hill,"Mallasandra, Near Kanakpura Road, Bangalore",Puravankara,289.0,4.0,Apartment
+Bangalore,Abhee Celestial City,"Sarjapur Road, Bangalore",Abhee Ventures,193.0,3.0,Apartment
+Bangalore,Vaishnavi Oasis,"Uttarahalli, Bangalore",Vaishnavi Group Bangalore,131.0,2.0,Apartment
+Bangalore,Urban Orchid,"6th Phase JP Nagar, Bangalore",Unknown,194.0,3.0,Apartment
+Bangalore,Elegant Whispering Winds,"Kanakapura Road, Bangalore",Elegant Builders Bangalore,111.00000000000001,2.0,Apartment
+Bangalore,Sattva Divinity,"Mysore Road, Bangalore",Sattva Group,,3.0,Apartment
+Bangalore,GR Sitara,"Rayasandra, Near Sarjapur Road, Bangalore",GR Constructions,86.8,2.0,Apartment
+Bangalore,Truevalue Agasthya Altitude,"Vidyaranyapura, Bangalore",Truevalue Homes,110.00000000000001,3.0,Apartment
+Bangalore,Assetz 66 and Shibui,"Whitefield, Bangalore",Assetz Property Group,121.0,2.0,Apartment
+Bangalore,SBR Magnus,"Katamnallur, Old Madras Road",SBR Group,156.0,3.0,Apartment
+Bangalore,Concorde Neo,"Thanisandra Main Road, Bangalore North",Concorde,100.0,1.0,Apartment
+Bangalore,Prestige Aspen Greens,"Sarjapur, Bangalore",Prestige Group,204.99999999999997,2.0,Apartment
+Bangalore,JRC Sanzio,"Sarjapur Road, Bangalore",JRC Projects,273.0,3.0,Apartment
+Bangalore,Rachana E Golden Abode,"Electronic City Phase 2, Bangalore",Unknown,82.37,2.0,Apartment
+Bangalore,Aryan Opulence,"Rajarajeshwari Nagar, Bangalore",Aryan Constructions,94.82,3.0,Apartment
+Bangalore,DS Needs 3 Project 276,"Kalena Agrahara, Bannerghatta Road",DS And JAKS Constructions,112.00000000000001,2.0,Apartment
+Bangalore,Vainavi Celestium,"Puttenahalli, 7th Phase JP Nagar",Vainavi Infrastructures,149.0,3.0,Apartment
+Bangalore,Oceanus White Meadows,"Kembathalli, Anjanapura Twp, Bangalore",Oceanus,130.0,2.0,Apartment
+Bangalore,Total Environment In That Quiet Earth,"Hennur Road, Bangalore",Total Environment Homes,173.0,3.0,Apartment
+Bangalore,Meda Greens,"Valagerahalli, Mysore Road",Meda Group and MRKR Constructions,,3.0,Apartment
+Bangalore,GR Green Line,"7th Phase JP Nagar, Bangalore",GR Infra,339.0,4.0,Apartment
+Bangalore,Sobha Ayana,"Balagere, Near Panathur, Bangalore",Sobha,,5.0,Apartment
+Bangalore,Prestige Silver Oak,"Pattandur Agrahara, Whitefield",Prestige Group,102.0,2.0,Apartment
+Bangalore,Svamitva Floresta,"Kanakapura Road, Bangalore",Svamitva Infra,134.0,3.0,Apartment
+Bangalore,Chaithanya Samarth,"Budigere Cross, Bangalore",Chaithanya,,3.0,Villa
+Bangalore,Myhna Orchid,"Varthur, Bangalore",Myhna Properties,930.0000000000001,4.0,Villa
+Bangalore,Sterling Ascentia,"Bellandur, Bangalore",Sterling Developers,118.0,2.0,Apartment
+Bangalore,DS Max Sky Shubham,"KR Puram, Bangalore",DS Max Properties,160.0,3.0,Apartment
+Bangalore,Vajram Vivera,"Kogilu, Near Yelahanka, Bangalore",Vajram Group,212.0,3.0,Apartment
+Bangalore,DS Max Sky Fields,"Samethanahalli, Near Whitefield, Bangalore",DS Max Properties,117.0,2.0,Apartment
+Bangalore,Falcon by BHP Housing,"Sarjapur Road, Bangalore",BHP Housing,151.0,3.0,Apartment
+Bangalore,Jai Fortune Square,"Hoodi, Bangalore",Jai Builders Bengaluru,209.0,3.0,Apartment
+Bangalore,Prestige Shantiniketan,"Whitefield, Bangalore",Prestige Group,,4.0,Apartment
+Bangalore,DivyaSree 77 Life,"Yemalur, Bellandur",Divyasree Developers,72.42,2.0,Apartment
+Bangalore,DivyaSree 77 Degree Place,"Marathahalli, Bangalore",Divyasree Developers,113.99999999999999,3.0,Apartment
+Bangalore,True Blue Napa Valley,"Yelahanka, Bangalore",True Blue Realty,69.98,2.0,Apartment
+Bangalore,Kolte Patil Lakeside 24,"Hennur Road, Bangalore",Kolte Patil,79.13,3.0,Apartment
+Bangalore,Ds Max Sky Shlokam,"Yerthiganahalli, Bangalore",DS Max Properties,101.0,2.0,Apartment
+Bangalore,Sattva Springs,"Kanakapura Road, Bangalore",Sattva Group,112.99999999999999,3.0,Apartment
+Bangalore,Prestige PineWood,"Srinivagilu, Koramangala",Prestige Group,191.0,2.0,Apartment
+Bangalore,Chaithanya Samarpan,"Whitefield, Bangalore",Chaithanya,850.0,4.0,Villa
+Bangalore,Prestige Elm Park,"Whitefield, Bangalore",Prestige Group,302.0,3.0,Apartment
+Bangalore,DSR Green Waters,"Gunjur, Near Varthur, Bangalore",DSR Infra Projects Bangalore,353.0,4.0,Apartment
+Bangalore,Sobha Hamptons,"Attibele, Bangalore",Sobha,100.0,2.0,Apartment
+Bangalore,Vishnu Woodstock,"Electronics City Phase 1, Bangalore",Vishnu Developers,122.0,3.0,Apartment
+Bangalore,Casagrand Hazen,"Gottigere, Bannerghatta Road",Casagrand,218.00000000000003,3.0,Apartment
+Bangalore,L And T Olivia,"Hebbal, Bangalore",LNT Realty,245.00000000000003,4.0,Apartment
+Bangalore,Whitestone Rosario,"Sonnenahalli Colony, KR Puram",Whitestone Projects,70.91,2.0,Apartment
+Bangalore,Prestige Lakeside Habitat,"Gunjur, Near Varthur, Bangalore",Prestige Group,,1.0,Apartment
+Bangalore,Grand La Palazzo,"Muthanallur, Sarjapur Road, Bangalore",TBC Homes Infra Corp,244.0,2.0,Apartment
+Bangalore,Bluejay pacific,"Mysore Road, Bangalore",Bluejay Enterprises,317.0,3.0,Apartment
+Bangalore,Arsis Green Hills,"KR Puram, Bangalore",Arsis Developers,360.0,4.0,Apartment
+Bangalore,Adarsh Stratuss,"5th Phase JP Nagar, Bangalore",Adarsh Group,306.0,4.0,Villa
+Bangalore,Sobha Insignia,"Bhoganhalli, Near Bellandur, Bangalore",Sobha,409.0,3.0,Apartment
+Bangalore,Prestige Fairfield,"Nagashetty Halli, Bellari Road",Prestige Group,582.0,4.0,Apartment
+Bangalore,The Green Valley Address,"Mysore Road, Bangalore",Address Maker Life Spaces,300.0,3.0,Apartment
+Bangalore,Suvrith Shelter,"Electronic City Phase 2, Bangalore",Suvrith Structures,346.0,4.0,Apartment
+Bangalore,Prestige Park Square,"Basavanapura, Bannerghatta Road",Prestige Group,208.0,,Land
+Bangalore,Rohan Ekanta,"Varthur, Bangalore",Rohan Builders,72.28,2.0,Apartment
+Bangalore,Sattva Bliss,"Budigere Cross, Bangalore",Sattva Group,100.0,3.0,Apartment
+Bangalore,Sekhar Oakwoods,"Belathur, KR Puram",Sekhar Builders and Infratech,172.0,2.0,Apartment
+Bangalore,Prestige Summer Fields,"Bhoganhalli, Near Bellandur, Bangalore",Prestige Group,283.0,3.0,Apartment
+Bangalore,Brigade Caladium,"Hebbal, Bangalore",Brigade Group,,1.0,Apartment
+Bangalore,Earthsong by Manyata,"Devanahalli, Bangalore",Manyata,336.0,,Land
+Bangalore,Sattva Aqua Vista,"Bannerghatta Road, Bangalore",Sattva Group,254.0,3.0,Apartment
+Bangalore,Meda Heights,"Varthur, Bangalore",Meda Projects,505.0,4.0,Apartment
+Bangalore,Adarsh Euphoria,"Halanayakanahalli, Bangalore",Adarsh Group,79.0,1.0,Apartment
+Bangalore,Sobha HRC Pristine,"Jakkur, Bangalore",Sobha,172.0,2.0,Apartment
+Bangalore,Mantri Alpyne,"Banashankari, Bangalore",Mantri Developers,212.0,3.0,Apartment
+Bangalore,Mittal Elanza,"Kogilu, Near Yelahanka, Bangalore",Mittal Universal,188.0,,Land
+Bangalore,Sowparnika Indradhanush,"Hoskote, Bangalore",Sowparnika Projects,38.36,1.0,Apartment
+Bangalore,Artismo Millionaire Tower,"IVC Road, Devanahalli",Artismo Builder,59.5,2.0,Apartment
+Bangalore,Columbia Aaltius,"Electronics City Phase 1, Bangalore",Columbia Group,79.94,3.0,Apartment
+Bangalore,GR Samskruthi,"Sarjapura Attibele Road, Bangalore",GR Constructions,150.0,2.0,Apartment
+Bangalore,Assetz Bloom And Dell,"Whitefield, Bangalore",APG Premium Residential,,3.0,Apartment
+Bangalore,Godrej United,"Whitefield, Bangalore",Godrej Properties,,1.0,Apartment
+Bangalore,Brigade Buena Vista,"Budigere, Bangalore",Brigade Group,170.0,2.0,Apartment
+Bangalore,Sobha Heritage,"Rajarajeshwari Nagar, Bangalore",Sobha,210.0,3.0,Apartment
+Bangalore,MJR Divine Meadows,"Sarjapur Road, Bangalore",MJR Builders,241.0,3.0,Villa
+Bangalore,Birla Trimaya Phase 2,"Devanahalli, Bangalore",Birla Estates,294.0,4.0,Villa
+Bangalore,Saranya Swarovski,"Kadugodi, Bangalore",Saranya Builders Bengaluru,107.0,2.0,Apartment
+Bangalore,GM Infinite E City Town,"Electronic City, Bangalore",GM Infinite,149.0,3.0,Apartment
+Bangalore,Prestige Song of the South,"Chandrasekarapura, Near Begur, Bangalore",Prestige Group,434.0,4.0,Apartment
+Bangalore,Birla Tisya,"Agrahara Dasarahalli, Rajajinagar",Birla Estates,100.0,2.0,Apartment
+Bangalore,Adarsh Savana,"Yelahanka, Bangalore",Adarsh Group,134.0,3.0,Apartment
+Bangalore,Mahendra Aarya,"Andapura, Near Electronic City Phase 2, Bangalore",Mahendra Homes,140.0,2.0,Apartment
+Bangalore,Saiven Mulberry Groves,"Sarjapur Road, Bangalore",Saiven Developers,250.0,3.0,Villa
+Bangalore,Shree Krishna E Golden Heights,"Electronic City Phase 2, Bangalore",Shree Krishna Builders Bangalore,400.0,4.0,Villa
+Bangalore,The County Address,"Sarjapur, Bangalore",Address Maker Life Spaces,76.76,2.0,Apartment
+Bangalore,Karle Zenith Residences,"Hebbal, Bangalore",Karle Infra,,3.0,Apartment
+Bangalore,Reddy Manyata Midlands,"Anekal, Bangalore",Reddy Veeranna Constructions,190.0,,Land
+Bangalore,Total Environment Learning To Fly,"7th Phase JP Nagar, Bangalore",Total Environment Homes,383.0,3.0,Apartment
+Bangalore,Sumadhura Silver Ripples,"Whitefield, Bangalore",Sumadhura Group,861.9999999999999,4.0,Apartment
+Bangalore,SKC Rainbow,"Kengeri, Bangalore",Sri Krishna Constructions Bangalore,109.00000000000001,,Land
+Bangalore,K Raheja Vivarea,"3rd Block Koramangala, Bangalore",K Raheja Corp,451.99999999999994,3.0,Apartment
+Bangalore,Prestige Serenity Shores,"Varthur, Bangalore",Prestige Group,,4.0,Apartment
+Bangalore,Purva Blubelle,"Rajajinagar, Bangalore",Puravankara,,5.0,Apartment
+Bangalore,Abhee Pride,"Chandapura, Bangalore",Abhee Ventures,,1.0,Apartment
+Bangalore,Brigade Calista,"Budigere Cross, Bangalore",Brigade Group,,2.0,Apartment
+Bangalore,Prestige Augusta Golf Village,"Kothanur, Near Hennur, Bangalore",Prestige Group,168.0,3.0,Apartment
+Bangalore,Frontier Heights,"Kasavanhalli, Bangalore",Frontier Shelters,,3.0,Villa
+Bangalore,Prestige Great Acres,"Sarjapur Road, Bangalore",Prestige Group,450.0,4.0,Villa
+Bangalore,DS Max Sukruth,"Chandapura, Bangalore",DS Max Properties,45.3,2.0,Apartment
+Bangalore,Monarch Aqua,"KR Puram, Bangalore",Monarch Properties,153.0,3.0,Apartment
+Bangalore,Purva Orient Grand,"Sudhama Nagar, Mission Road, Bangalore",Puravankara,136.0,2.0,Apartment
+Bangalore,Architha Aarna,"Rajarajeshwari Nagar, Bangalore",Architha Developers,259.0,3.0,Apartment
+Bangalore,RJ Lake Gardenia,"Bhattarahalli, KR Puram",RJ Group,279.0,4.0,Apartment
+Bangalore,Unishire Terraza,"Manyata Tech Park, Thanisandra Main Road",Unishire Group,800.0,3.0,Apartment
+Bangalore,Birla Ojasvi,"Rajarajeshwari Nagar, Bangalore",Birla Estates,150.0,2.0,Apartment
+Bangalore,SNN Raj Viviente,"Eagle Ridge, Bannerghatta Road",SNN Raj Corp,259.0,3.0,Apartment
+Bangalore,DS Max Spoorthi,"Sarjapura Attibele Road, Bangalore",DS Max Properties,582.0,4.0,Villa
+Bangalore,Birla Alokya,"Whitefield, Bangalore",Birla Estates,440.00000000000006,4.0,Villa
+Bangalore,Assetz Marq 3,"Whitefield, Bangalore",Assetz Property Group,200.0,3.0,Apartment
+Bangalore,MVN Aero One,"Devanahalli, Bangalore",MVN Group,229.99999999999997,4.0,Apartment
+Bangalore,Elegant Exquisite,"Rajarajeshwari Nagar, Bangalore",Elegant Builders and Developers,58.0,1.0,Apartment
+Bangalore,LGCL Luxuriate,"HSR Layout, Bangalore",LGCL,80.51,2.0,Apartment
+Bangalore,Sowparnika Ashiyana,"Whitefield, Bangalore",Sowparnika Projects,99.0,3.0,Apartment
+Bangalore,Nambiar Bellezea,"Sarjapur Road, Bangalore",Nambiar Builders,84.16,2.0,Apartment
+Bangalore,Brigade Oasis,"Devanahalli, Bangalore",Brigade Group,103.0,3.0,Apartment
+Bangalore,Alpine Pyramid,"Rajiv Gandhi Nagar, Sahakara Nagar",Alpine Housing Development Corporation,91.04,2.0,Apartment
+Bangalore,GRC Saffron Skies,"Kanakapura Road, Bangalore",GRC Infra,128.0,3.0,Apartment
+Bangalore,Amrutha Heights Phase 2,"Nallurhalli, Whitefield",Amrutha Shelters,168.0,4.0,Apartment
+Bangalore,Affinity Brundaavana,"Thanisandra, Bangalore",Affinity Projects,185.0,3.0,Villa
+Bangalore,TVS Emerald Jardin,"Singasandra, Hosur Road",TVS Emerald,,1.0,Apartment
+Bangalore,VBC Oracle Sunrise,"Kasavanhalli, Bangalore",VBC Group,153.0,2.0,Apartment
+Bangalore,Arvind Forest Trails,"Sarjapur Road, Bangalore",Arvind Smartspaces,350.0,5.0,Villa
+Bangalore,Spectra Raaya,"Siddapura, Whitefield",Spectra Constructions,121.0,2.0,Apartment
+Bangalore,Raj Bay Vista,"BTM Layout, Bangalore",SNN Raj Corp,176.0,3.0,Apartment
+Bangalore,Prestige Elysian,"Bannerghatta Road, Bangalore",Prestige Group,,2.0,Apartment
+Bangalore,Sona Vistaas,"Bannerghatta Road, Bangalore",Sona Heights,198.0,3.0,Apartment
+Bangalore,DS Max Senate,"Begur, Bangalore",DS Max Properties,,1.0,Apartment
+Bangalore,Sri Lakshmi Vallabha Kanakashree,"Uttarahalli, Bangalore",Sri Lakshmi Vallabha constructions,60.4,2.0,Apartment
+Bangalore,Godrej Splendour,"Whitefield, Bangalore",Godrej Properties,,1.0,Apartment
+Bangalore,Adarsh Palm Meadows,"Ramagondanahalli, Whitefield",Adarsh Group,480.0,3.0,Villa
+Bangalore,Brigade Cornerstone Utopia,"Varthur, Bangalore",Brigade Group,1400.0,4.0,Villa
+Bangalore,Aparna Elina,"Yeshwanthpur, Bangalore",Aparna Constructions,,1.0,Apartment
+Bangalore,Soho By Bren,"Talaghattapura, Kanakapura Road",Bren Corporation,120.0,2.0,Apartment
+Bangalore,Prestige Falcon City,"Kanakapura Road, Bangalore",Prestige Group,117.0,2.0,Apartment
+Bangalore,Purva Sparkling Springs,"Bannerghatta Road, Bangalore",Puravankara,776.0,3.0,Villa
+Bangalore,Sowparnika Sunray,"Mysore Road, Bangalore",Sowparnika Projects,34.46,1.0,Apartment
+Delhi,"Anand Niketan, Delhi, South Delhi","4 BHK Independent Builder Floor in Anand Niketan, Delhi",Surya Homes and Developers,125.0,2.0,Independent Floor
+Delhi,"Ashok Vihar Phase 2, Delhi, North Delhi","3 BHK Independent Builder Floor in Ashok Vihar Phase 2, Delhi",Findahouse,290.0,3.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Maa Katyayani Properties,42.0,2.0,Independent Floor
+Delhi,New friends colony,"4 BHK Independent Builder Floor in Sukhdev Vihar, Delhi",Kalra Associates,77.0,3.0,Independent Floor
+Delhi,Premium Luxury Basement Ground Floor,"4 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Omdev Homes,150.0,4.0,Independent Floor
+Delhi,"Samta Enclave, Delhi, Delhi South West","Residential land / Plot in Samta Enclave, Delhi",Godrej Properties,120.0,2.0,Apartment
+Delhi,Godrej South Estate,"2 BHK Flat in Okhla, Delhi",Suri Buildtech,250.0,3.0,Apartment
+Delhi,"Greater Kailash 2, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 2, Delhi",Lucky Realtech,650.0,4.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Sky High Developers,700.0,3.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",URE Realtors,2000.0,4.0,Independent Floor
+Delhi,BRAND NEW,"3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",BDS BUILDCON,2000.0,5.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",India Homes,,1.0,Apartment
+Delhi,DLF Capital Greens 1 and 2,"3 BHK Flat in Moti Nagar, Delhi",URE Realtors,602.0,2.0,Apartment
+Delhi,"Block R Greater Kailash 1, Delhi, South Delhi","4 BHK Independent Builder Floor in Block R Greater Kailash 1, Delhi",Happy Homes Delhi,684.0,3.0,Apartment
+Delhi,Pratham Nikunj,"2 BHK Flat in Sainik Nagar,Nawada, Delhi",VB Developers Delhi,58.0,3.0,Independent Floor
+Delhi,"Kiran Vihar, Delhi, East Delhi","4 BHK Independent Builder Floor in Kiran Vihar, Delhi",Property Hub,90.72,4.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Jagdamba Associates,108.0,5.0,Independent Floor
+Delhi,Budhh Vihar,"17 Bedroom House in Badarpur, Delhi",Investnow Realtec,45.6,2.0,Independent Floor
+Delhi,DDA Karuna Kunj,"3 BHK Independent Builder Floor in Sector 3 Dwarka, Delhi",Arora Property Dealer,99.0,3.0,Independent Floor
+Delhi,"Ghanta ghar, sbji mandi","Residential land / Plot in Kamla Nagar, Delhi",Bajrang Properties and Developers,110.00000000000001,4.0,Independent Floor
+Delhi,Premium Luxury Ground Floor,"3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Habitech Group,75.0,2.0,Independent Floor
+Delhi,Yadav Nagar,"6 Bedroom House in Samay Pur, Delhi",Unknown,110.00000000000001,3.0,Independent Floor
+Delhi,"Greater Kailash 2, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 2, Delhi",Unknown,250.0,4.0,Independent Floor
+Delhi,Aashirwad Apartments,"3 BHK Flat in IP Extension, Delhi",Unknown,579.0,3.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Unknown,733.0,4.0,Independent Floor
+Delhi,"Jawahar Nagar, Delhi, North Delhi","3 BHK Independent Builder Floor in Jawahar Nagar, Delhi",Unknown,135.0,2.0,Independent Floor
+Delhi,"New Ashok Nagar, Delhi, East Delhi","4 Bedroom House in New Ashok Nagar, Delhi",Unknown,400.0,3.0,Independent Floor
+Delhi,"Maidan Garhi, Delhi, South Delhi","Residential land / Plot in Maidan Garhi, Delhi",Unknown,650.0,4.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Unknown,75.0,2.0,Independent Floor
+Delhi,"Block A Upakar Colony, Delhi, North Delhi","3 BHK Independent Builder Floor in Block A Upakar Colony, Delhi",Unknown,200.0,3.0,Independent Floor
+Delhi,"Chander Vihar, Delhi, East Delhi","24 Bedroom House in Chander Vihar, Delhi",Unknown,235.0,4.0,Independent Floor
+Delhi,"Alipur, Delhi, North Delhi","3 Bedroom House in Alipur, Delhi",Unknown,,1.0,Apartment
+Delhi,"Sagarpur East, Delhi, West Delhi","2 Bedroom House in Sagarpur East, Delhi",Vaibhav Associates,42.12,2.0,Independent Floor
+Delhi,"Greater Kailash 3, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 3, Delhi",Balaji Developers Dwarka,70.04,3.0,Independent Floor
+Delhi,Premium Luxury Second Floor,"4 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Kaanha Associates,90.44,4.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Unknown,86.25,3.0,Apartment
+Delhi,"Rajpur Khurd Extension, Delhi, South Delhi","3 Bedroom House in Rajpur Khurd Extension, Delhi",Unknown,112.00000000000001,4.0,Apartment
+Delhi,RWA Block D2A,"2 BHK Flat in Janakpuri, West Delhi",Unknown,,2.0,Independent Floor
+Delhi,DLF One Midtown,"2 BHK Flat in Moti Nagar, Delhi",Unknown,,3.0,Independent Floor
+Delhi,Premium Luxury Third Floor,"4 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Unknown,,4.0,Independent Floor
+Delhi,"Green Park Extension, Delhi, South Delhi","4 BHK Independent Builder Floor in Green Park Extension, Delhi",Shri Builder Connectors,,3.0,Independent Floor
+Delhi,Unity Group The Amaryllis,"4 BHK Flat in Karol Bagh, Delhi",Unknown,,4.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 1, Delhi",DLF Homes,433.0,2.0,Apartment
+Delhi,PremiumLuxury Second Floor,"3 BHK Independent Builder Floor in Greater Kailash 2, Delhi",Indiabhoomi,600.0,3.0,Apartment
+Delhi,"Greater Kailash 2, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 2, Delhi",King Properties,800.0,4.0,Apartment
+Delhi,"Punjabi Bagh, Delhi, West Delhi","4 BHK Independent Builder Floor in Punjabi Bagh, Delhi",Unknown,,1.0,Apartment
+Delhi,Park View Terrace Garden,"4 BHK Independent Builder Floor in Vasant Vihar, Delhi",Unknown,,2.0,Apartment
+Delhi,"Greater Kailash 2, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 2, Delhi",Unknown,,3.0,Apartment
+Delhi,RWA East Of Kailash Block E,"4 BHK Independent Builder Floor in East of Kailash, Delhi",Unknown,105.0,2.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Unknown,340.0,3.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","3 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Unknown,648.0,4.0,Independent Floor
+Delhi,Main Road Facing,"4 BHK Independent Builder Floor in Greater Kailash Enclave 1, Delhi",Mr Associates Property,48.0,2.0,Apartment
+Delhi,"Greater Kailash 2, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 2, Delhi",Unknown,80.0,3.0,Apartment
+Delhi,basement & ground,"4 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Unknown,126.0,4.0,Apartment
+Delhi,"Defence Colony, South Delhi","3 BHK Independent Builder Floor in Defence Colony, South Delhi",Balaji Developers Delhi,86.25,3.0,Independent Floor
+Delhi,Amar Colony,"2 BHK Independent Builder Floor in Lajpat Nagar, Delhi",Unknown,111.00000000000001,4.0,Independent Floor
+Delhi,"Greater Kailash 1, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 1, Delhi",Balaji Developers Delhi,90.05,3.0,Independent Floor
+Delhi,"Greater Kailash 2, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 2, Delhi",Unknown,122.0,4.0,Independent Floor
+Delhi,"Shakarpur, Delhi, East Delhi","4 BHK Independent Builder Floor in Shakarpur, Delhi",Om Associates chhatarpur,60.0,2.0,Apartment
+Delhi,s block greater kailash part 2,"4 BHK Independent Builder Floor in Greater Kailash 2, Delhi",Unknown,90.0,3.0,Apartment
+Delhi,RWA East Of Kailash Block E,"4 BHK Independent Builder Floor in East of Kailash, Delhi",Unknown,150.0,4.0,Apartment
+Delhi,RNA Super Luxury Builder Floors,"4 BHK Independent Builder Floor in Anand Lok, Delhi",RV Properties,550.0,3.0,Apartment
+Delhi,"Greater Kailash 2, Delhi, South Delhi","4 BHK Independent Builder Floor in Greater Kailash 2, Delhi",Unknown,1100.0,4.0,Apartment
+Delhi,"Friends Colony West, Delhi, South Delhi","4 BHK Independent Builder Floor in Friends Colony West, Delhi",Unknown,2100.0,5.0,Apartment
